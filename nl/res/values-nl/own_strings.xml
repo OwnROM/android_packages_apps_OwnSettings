@@ -39,7 +39,7 @@
   <string name="empty_title">Leeg</string>
   <!-- Color picker help screen -->
   <string name="color_picker_help_screen_title">Kleurkiezer help</string>
-  <string name="color_picker_help_ab_title">Action bar:</string>
+  <string name="color_picker_help_ab_title">Actiebalk:</string>
   <string name="color_picker_help_ab_back_title">Terug knop:</string>
   <string name="color_picker_help_ab_back_summary">Sluit de kleurkiezer zonder kleur toe te passen (annuleren).\nDe terugknop op de navigatiebalk heeft hetzelfde effect.</string>
   <string name="color_picker_help_ab_name_title">Titel:</string>
@@ -52,33 +52,33 @@
   <string name="color_picker_help_ab_menu_reset_title">Reset:</string>
   <string name="color_picker_help_ab_menu_reset_summary">Herstelt de nieuwe kleur naar standaard, zonder deze toe te passen.</string>
   <string name="color_picker_help_ab_menu_hex_title">HEX-waarde:</string>
-  <string name="color_picker_help_ab_menu_hex_summary">Shows the hex input field.\nHex values have to be in hex color format:\n\'#aarrggbb\', (\'alpha\' (transparency), \'red\', \'green\' and \'blue\').\nThe back button closes the hex input field without setting the hex value.\nThe apply button sets the hex value as new color without applying the new color.</string>
+  <string name="color_picker_help_ab_menu_hex_summary">Toont het Hex-invoerveld.\nHEX-waarden moeten in het Hex-kleurenformaat staan:\n\'#aarrggbb\', (\'alfa\' (transparant), \'rood\', \'groen\' en \'blauw\').\nDe terugknop sluit het invoerveld zonder de waarde in te stellen.\nDe toepassingsknop stelt de waarde in als nieuwe kleur zonder de nieuwe kleur toe te passen.</string>
   <string name="color_picker_help_ab_menu_favorites_title">Toon/verberg favorieten:</string>
-  <string name="color_picker_help_ab_menu_favorites_summary">Shows/hides the favorites.\nHiding the favorites will not reset the favorite colors.</string>
+  <string name="color_picker_help_ab_menu_favorites_summary">Toont/verbergt favorieten.\nAlle favorieten verbergen zal de favoriete kleuren niet resetten.</string>
   <string name="color_picker_help_ab_menu_help_title">Help:</string>
   <string name="color_picker_help_ab_menu_help_summary">Toont dit help scherm.</string>
   <string name="color_picker_help_colors_title">Kleuren:</string>
-  <string name="color_picker_help_picker_view_title">Color panel:</string>
-  <string name="color_picker_help_picker_view_summary">Pick a color to set a new color without applying the new color.\nThe color range can be changed using the slider on the right side</string>
+  <string name="color_picker_help_picker_view_title">Kleurenpaneel:</string>
+  <string name="color_picker_help_picker_view_summary">Kies een kleur om een nieuwe kleur in te stellen zonder de nieuwe kleur toe te passen:\nHet kleurenbereik kan veranderd worden door de schuifbalk te gebruiken aan de rechterkant</string>
   <string name="color_picker_help_color_buttons_title">Kleur knoppen:</string>
   <string name="color_picker_help_favorites_title">Favorieten:</string>
   <string name="color_picker_help_favorites_summary">Favorieten zijn standaard leeg.\nDe nieuwe kleur kan altijd worden opgeslagen als favoriet met een lange klik, (een niet-lege favoriet zal worden overschreven door de nieuwe kleur).\nMet een klik stel je de favoriete kleur in als nieuwe kleur zonder de nieuw kleur toe te passen.</string>
-  <string name="color_picker_help_palette_title">Palette:\n(OwnROM, Material and RGB)</string>
-  <string name="color_picker_help_palette_summary">All palette colors have a fixed value.\nA click sets the favorite color as new color, without applying the new color.</string>
-  <string name="color_picker_help_do_not_show_title">Don\'t show again</string>
-  <string name="color_picker_help_button_ok_title">OK</string>
+  <string name="color_picker_help_palette_title">Palet: \n(RR, Material en RGB)</string>
+  <string name="color_picker_help_palette_summary">Alle palet kleuren hebben een vaste waarde. \n een Klik zet de favoriete kleur als nieuwe kleur, zonder de nieuwe kleur toe te passen.</string>
+  <string name="color_picker_help_do_not_show_title">Niet nogmaals tonen</string>
+  <string name="color_picker_help_button_ok_title">Oké</string>
   <!-- OwnSettings -->
   <string name="ownsettings_title">OwnSettings</string>
   <!-- Categories -->
   <!-- Status bar -->
   <!-- Tabs -->
-  <string name="statusbar_icons_tab_title">Icons</string>
-  <string name="statusbar_clock_tab">Clock</string>
-  <string name="statusbar_other_tab_title">Other</string>
+  <string name="statusbar_icons_tab_title">Pictogrammen</string>
+  <string name="statusbar_clock_tab">Klok</string>
+  <string name="statusbar_other_tab_title">Overig</string>
   <!-- General -->
-  <string name="status_bar_toggle_brightness">Brightness control</string>
-  <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
-  <string name="status_bar_notif_count_title">Show notification count</string>
+  <string name="status_bar_toggle_brightness">Helderheidsregeling</string>
+  <string name="status_bar_toggle_brightness_summary">Helderheid aanpassen door over de statusbalk te vegen</string>
+  <string name="status_bar_notif_count_title">Toon aantal meldingen</string>
   <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
   <string name="status_bar_quick_qs_pulldown_title">Quick pulldown</string>
   <string name="status_bar_quick_qs_pulldown_summary">%1$s edge of the status bar pulls down Quick Settings</string>
