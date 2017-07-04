@@ -639,7 +639,7 @@
   <string name="own_updater_summary">Aktualizujte ROM, GApps a ostatní věci</string>
   <string name="ownrom_maintainers">Správci</string>
   <string name="ownrom_donation_link">Přispět</string>
-  <string name="ownrom_donation_link_summary">Pomozte nám vylepšit OwnROM tím, že přispějete přes PayPall</string>
+  <string name="ownrom_donation_link_summary">Pomozte nám vylepšit OwnROM tím, že přispějete přes PayPal</string>
   <!-- Changelog -->
   <string name="changelog_ownrom_title">Seznam změn</string>
   <string name="changelog_ownrom_error">Chyba při načítání seznamu změn</string>
