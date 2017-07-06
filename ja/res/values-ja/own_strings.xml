@@ -410,7 +410,7 @@
   <string name="one_handed_mode_summary">Allows swiping on the navigation bar to enable one handed mode</string>
   <string name="navbar_buttons_alpha_title">Button transparency</string>
   <!-- Power menu -->
-  <string name="power_menu_title">Power menu</string>
+  <string name="power_menu_title">電源メニュー</string>
   <string name="power_menu_reboot_title">Restart menu</string>
   <string name="power_menu_screenshot_title">Screenshot</string>
   <string name="power_menu_airplane_title">Airplane mode</string>
