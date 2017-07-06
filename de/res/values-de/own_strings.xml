@@ -252,15 +252,15 @@
   <string name="keyboard_backlight_seekbar_title">Helligkeit der Tastaturbeleuchtung</string>
   <string name="backlight_timeout_title">Beleuchtungsdauer</string>
   <string name="backlight_timeout_unlimited">Bitte nicht ausschalten</string>
-  <string name="backlight_summary_disabled">Disabled</string>
+  <string name="backlight_summary_disabled">Ausgeschaltet</string>
   <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
-  <string name="backlight_summary_enabled">Enabled</string>
+  <string name="backlight_summary_enabled">Eingeschaltet</string>
   <!-- Navigation Bar -->
   <string name="navbar_interface_title">Interface</string>
-  <string name="navbar_size">Bar size</string>
-  <string name="navbar_mode">Navigation mode</string>
-  <string name="navbar_visibility">Enable navigation bar</string>
-  <string name="navigationbar_settings_title">Navigation bar</string>
+  <string name="navbar_size">Leistengröße</string>
+  <string name="navbar_mode">Navigationsmodus</string>
+  <string name="navbar_visibility">Navigationsleiste aktivieren</string>
+  <string name="navigationbar_settings_title">Navigationsleiste</string>
   <string name="navigationbar_settings_summary">Customize navigation style and behavior</string>
   <string name="navbar_general_title">Advanced</string>
   <string name="navigation_bar_left_title">Linkshänder-Modus</string>
