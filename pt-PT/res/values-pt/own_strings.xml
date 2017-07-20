@@ -16,12 +16,12 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General Strings -->
-  <string name="general">General</string>
+  <string name="general">Geral</string>
   <string name="default_string">Default</string>
   <string name="reset">Reset</string>
   <!-- Color picker -->
   <string name="color_picker_fragment_title">Color Picker</string>
-  <string name="apply_color_title">Apply color</string>
+  <string name="apply_color_title">Aplicar cor</string>
   <string name="press_color_to_apply">Press on color below to apply</string>
   <string name="edit_hex_title">HEX value</string>
   <string name="reset_android_title">Android default</string>
@@ -33,7 +33,7 @@
   <string name="reset_theme_default_title">Theme default</string>
   <string name="favorites_title">Favorites</string>
   <string name="hide_favorites_title">Hide favorites</string>
-  <string name="show_favorites_title">Show favorites</string>
+  <string name="show_favorites_title">Mostrar favoritos</string>
   <string name="show_help_title">Show help</string>
   <string name="hide_help_title">Hide help</string>
   <string name="empty_title">Empty</string>
