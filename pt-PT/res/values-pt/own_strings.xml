@@ -33,10 +33,10 @@
   <string name="reset_theme_default_title">Theme default</string>
   <string name="favorites_title">Favorites</string>
   <string name="hide_favorites_title">Hide favorites</string>
-  <string name="show_favorites_title">Mostrar favoritos</string>
+  <string name="show_favorites_title">Show favorites</string>
   <string name="show_help_title">Show help</string>
   <string name="hide_help_title">Hide help</string>
-  <string name="empty_title">Empty</string>
+  <string name="empty_title">Vazio</string>
   <!-- Color picker help screen -->
   <string name="color_picker_help_screen_title">Color Picker help</string>
   <string name="color_picker_help_ab_title">Action bar:</string>
@@ -51,17 +51,17 @@
   <string name="color_picker_help_ab_menu_title">Menu button:</string>
   <string name="color_picker_help_ab_menu_reset_title">Reset:</string>
   <string name="color_picker_help_ab_menu_reset_summary">Resets the new color to the default Android or OwnROM color without applying the new color.</string>
-  <string name="color_picker_help_ab_menu_hex_title">Hex value:</string>
+  <string name="color_picker_help_ab_menu_hex_title">Valor Hex:</string>
   <string name="color_picker_help_ab_menu_hex_summary">Shows the hex input field.\nHex values have to be in hex color format:\n\'#aarrggbb\', (\'alpha\' (transparency), \'red\', \'green\' and \'blue\').\nThe back button closes the hex input field without setting the hex value.\nThe apply button sets the hex value as new color without applying the new color.</string>
-  <string name="color_picker_help_ab_menu_favorites_title">Show/hide favorites:</string>
+  <string name="color_picker_help_ab_menu_favorites_title">Mostrar/ocultar favoritos:</string>
   <string name="color_picker_help_ab_menu_favorites_summary">Shows/hides the favorites.\nHiding the favorites will not reset the favorite colors.</string>
-  <string name="color_picker_help_ab_menu_help_title">Help:</string>
+  <string name="color_picker_help_ab_menu_help_title">Ajuda:</string>
   <string name="color_picker_help_ab_menu_help_summary">Shows this help screen.</string>
-  <string name="color_picker_help_colors_title">Colors:</string>
+  <string name="color_picker_help_colors_title">Cores:</string>
   <string name="color_picker_help_picker_view_title">Color panel:</string>
   <string name="color_picker_help_picker_view_summary">Pick a color to set a new color without applying the new color.\nThe color range can be changed using the slider on the right side</string>
   <string name="color_picker_help_color_buttons_title">Color buttons:</string>
-  <string name="color_picker_help_favorites_title">Favorites:</string>
+  <string name="color_picker_help_favorites_title">Favoritos:</string>
   <string name="color_picker_help_favorites_summary">Favorites are empty by default.\nThe new color can be saved as a favorite at any time via long click, (a none empty favorite will be overwritten by the new color).\nA click sets the favorite color as new color, without applying the new color.</string>
   <string name="color_picker_help_palette_title">Palette:\n(OwnROM, Material and RGB)</string>
   <string name="color_picker_help_palette_summary">All palette colors have a fixed value.\nA click sets the favorite color as new color, without applying the new color.</string>
