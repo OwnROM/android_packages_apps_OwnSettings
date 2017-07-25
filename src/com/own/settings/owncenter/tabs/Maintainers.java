@@ -70,7 +70,8 @@ public class Maintainers extends SettingsPreferenceFragment {
 	// OnePlus
 	private Preference mOneplus3PlusUrl;
 	private Preference mOneplus2PlusUrl;
-	
+	private Preference mOneplusOnePlusUrl;
+
 	// Google
 	private Preference mAnglerPlusUrl;
 	private Preference mBullheadPlusUrl;
