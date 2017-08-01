@@ -54,39 +54,39 @@
   <string name="color_picker_help_ab_menu_hex_title">Giá trị Hex:</string>
   <string name="color_picker_help_ab_menu_hex_summary">Hiện trường nhập liệu Hex.\nGiá trị Hex phải có định dạng màu:\n\'#aarrggbb\',(\'anpha\'(trong suốt),\'đỏ\', \'xanh lá\', hoặc \'xanh biển\').\nNút trở về đóng bảng màu mà không lưu thiết lập.\nNút áp dụng đặt giá trị Hex như màu mới mà không áp dụng màu mới.</string>
   <string name="color_picker_help_ab_menu_favorites_title">Hiện/Ẩn ưa thích:</string>
-  <string name="color_picker_help_ab_menu_favorites_summary">Shows/hides the favorites.\nHiding the favorites will not reset the favorite colors.</string>
-  <string name="color_picker_help_ab_menu_help_title">Help:</string>
-  <string name="color_picker_help_ab_menu_help_summary">Shows this help screen.</string>
-  <string name="color_picker_help_colors_title">Colors:</string>
-  <string name="color_picker_help_picker_view_title">Color panel:</string>
-  <string name="color_picker_help_picker_view_summary">Pick a color to set a new color without applying the new color.\nThe color range can be changed using the slider on the right side</string>
-  <string name="color_picker_help_color_buttons_title">Color buttons:</string>
-  <string name="color_picker_help_favorites_title">Favorites:</string>
-  <string name="color_picker_help_favorites_summary">Favorites are empty by default.\nThe new color can be saved as a favorite at any time via long click, (a none empty favorite will be overwritten by the new color).\nA click sets the favorite color as new color, without applying the new color.</string>
-  <string name="color_picker_help_palette_title">Palette:\n(OwnROM, Material and RGB)</string>
-  <string name="color_picker_help_palette_summary">All palette colors have a fixed value.\nA click sets the favorite color as new color, without applying the new color.</string>
-  <string name="color_picker_help_do_not_show_title">Don\'t show again</string>
-  <string name="color_picker_help_button_ok_title">OK</string>
+  <string name="color_picker_help_ab_menu_favorites_summary">Hiện ẩn các mục ưa thích.\nẨn các mục ưa thích sẽ không đặt lại màu ưa thích.</string>
+  <string name="color_picker_help_ab_menu_help_title">Trợ giúp:</string>
+  <string name="color_picker_help_ab_menu_help_summary">Hiện trợ giúp này.</string>
+  <string name="color_picker_help_colors_title">Màu:</string>
+  <string name="color_picker_help_picker_view_title">Bảng màu:</string>
+  <string name="color_picker_help_picker_view_summary">Chọn một màu để thiết lập màu mới mà không áp dụng màu đó. \nDải màu có thể được thay đổi bằng cách sử dụng thanh trượt ở cạnh phải</string>
+  <string name="color_picker_help_color_buttons_title">Nút màu:</string>
+  <string name="color_picker_help_favorites_title">Ưa thích:</string>
+  <string name="color_picker_help_favorites_summary">Mục yêu thích mặc định trống. \nMàu sắc mới có thể được lưu như là một yêu thích bất cứ lúc nào bằng cách bấm giữ, (mục yêu thích trống sẽ được ghi đè bằng các màu mới).\nA Chạm vào để thiết đặt màu yêu thích làm màu mới, mà không áp dụng màu mới.</string>
+  <string name="color_picker_help_palette_title">Bảng: \n(RR, Material và RGB)</string>
+  <string name="color_picker_help_palette_summary">Tất cả bảng màu có giá trị cố định. \nA Chạm vào để thiết đặt màu yêu thích làm màu mới, mà không áp dụng màu mới.</string>
+  <string name="color_picker_help_do_not_show_title">Không hiển thị lại</string>
+  <string name="color_picker_help_button_ok_title">Ok</string>
   <!-- OwnSettings -->
-  <string name="ownsettings_title">OwnSettings</string>
+  <string name="ownsettings_title">Thiết lập Own</string>
   <!-- Categories -->
   <!-- Status bar -->
   <!-- Tabs -->
   <string name="statusbar_icons_tab_title">Biểu tượng</string>
-  <string name="statusbar_clock_tab">Clock</string>
-  <string name="statusbar_other_tab_title">Other</string>
+  <string name="statusbar_clock_tab">Đồng hồ</string>
+  <string name="statusbar_other_tab_title">Khác</string>
   <!-- General -->
-  <string name="status_bar_toggle_brightness">Brightness control</string>
-  <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
-  <string name="status_bar_notif_count_title">Show notification count</string>
-  <string name="status_bar_notif_count_summary">Display the number of pending notifications</string>
-  <string name="status_bar_quick_qs_pulldown_title">Quick pulldown</string>
-  <string name="status_bar_quick_qs_pulldown_summary">%1$s edge of the status bar pulls down Quick Settings</string>
-  <string name="status_bar_quick_qs_pulldown_off">Off</string>
-  <string name="status_bar_quick_qs_pulldown_left">Left</string>
-  <string name="status_bar_quick_qs_pulldown_right">Right</string>
+  <string name="status_bar_toggle_brightness">Điều chỉnh độ sáng</string>
+  <string name="status_bar_toggle_brightness_summary">Điều chỉnh độ sáng bằng cách trượt trên thanh trạng thái</string>
+  <string name="status_bar_notif_count_title">Hiện số lượng thông báo</string>
+  <string name="status_bar_notif_count_summary">Hiển thị số lượng thông báo đang chờ</string>
+  <string name="status_bar_quick_qs_pulldown_title">Kéo xuống nhanh</string>
+  <string name="status_bar_quick_qs_pulldown_summary">Kéo từ cạnh %1$s thanh trạng thái xuống để truy cập cài đặt nhanh</string>
+  <string name="status_bar_quick_qs_pulldown_off">Tắt</string>
+  <string name="status_bar_quick_qs_pulldown_left">Trái</string>
+  <string name="status_bar_quick_qs_pulldown_right">Phải</string>
   <!-- Status bar - Clock -->
-  <string name="status_bar_clock_position_title">Clock Position</string>
+  <string name="status_bar_clock_position_title">Vị trí đồng hồ</string>
   <string name="status_bar_clock_position_right">Right</string>
   <string name="status_bar_clock_position_left">Left</string>
   <string name="status_bar_clock_position_center">Center</string>
@@ -143,15 +143,15 @@
   <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
   <string name="network_traffic_autohide_threshold">Inactivity threshold</string>
   <string name="network_traffic_hidearrow_title">Hide arrows</string>
-  <string name="network_traffic_hidearrow_summary">Hide arrows in traffic indicator</string>
-  <string name="network_traffic_color_style">Color style</string>
-  <string name="network_traffic_color_reset">Reset color</string>
-  <string name="network_traffic_color_reset_message">Reset network traffic color to default?</string>
+  <string name="network_traffic_hidearrow_summary">Ẩn các mũi tên ở chỉ số lưu lượng truy cập</string>
+  <string name="network_traffic_color_style">Kiểu màu</string>
+  <string name="network_traffic_color_reset">Đặt lại màu</string>
+  <string name="network_traffic_color_reset_message">Thiết lập lại màu lưu lượng mạng về mặc định?</string>
   <!-- Battery Bar -->
-  <string name="battery_bar_title">Battery bar</string>
-  <string name="battery_bar">Battery bar location</string>
-  <string name="battery_bar_no_navbar">Battery bar location</string>
-  <string name="battery_bar_location_hide">Hide</string>
+  <string name="battery_bar_title">Thanh pin</string>
+  <string name="battery_bar">Vị trí thanh pin</string>
+  <string name="battery_bar_no_navbar">Vị trí thanh pin</string>
+  <string name="battery_bar_location_hide">Ẩn</string>
   <string name="battery_bar_location_statusbar">Statusbar</string>
   <string name="battery_bar_location_top_navbar">Top of navbar</string>
   <string name="battery_bar_location_bottom_navbar">Bottom of navbar</string>
