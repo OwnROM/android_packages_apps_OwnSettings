@@ -16,33 +16,33 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General Strings -->
-  <string name="general">General</string>
+  <string name="general">Chung</string>
   <string name="default_string">Mặc định</string>
-  <string name="reset">Reset</string>
+  <string name="reset">Thiết lập lại</string>
   <!-- Color picker -->
-  <string name="color_picker_fragment_title">Color Picker</string>
-  <string name="apply_color_title">Apply color</string>
-  <string name="press_color_to_apply">Press on color below to apply</string>
-  <string name="edit_hex_title">HEX value</string>
-  <string name="reset_android_title">Android default</string>
+  <string name="color_picker_fragment_title">Chọn màu</string>
+  <string name="apply_color_title">Áp dụng màu</string>
+  <string name="press_color_to_apply">Nhấn lên màu bên dưới để áp dụng</string>
+  <string name="edit_hex_title">Số liệu HEX</string>
+  <string name="reset_android_title">Mặc định Android</string>
   <string name="palette_darkkat_title">OwnROM</string>
-  <string name="palette_material_title">Material</string>
+  <string name="palette_material_title">Vật liệu</string>
   <string name="palette_rgb_title">RGB</string>
-  <string name="reset_color_title">Reset</string>
+  <string name="reset_color_title">Khởi động lại</string>
   <string name="reset_darkkat_title">Customized palette</string>
-  <string name="reset_theme_default_title">Theme default</string>
-  <string name="favorites_title">Favorites</string>
-  <string name="hide_favorites_title">Hide favorites</string>
-  <string name="show_favorites_title">Show favorites</string>
-  <string name="show_help_title">Show help</string>
-  <string name="hide_help_title">Hide help</string>
-  <string name="empty_title">Empty</string>
+  <string name="reset_theme_default_title">Giao diện mặc định</string>
+  <string name="favorites_title">Ưa thích</string>
+  <string name="hide_favorites_title">Ẩn ưa thích</string>
+  <string name="show_favorites_title">Hiện ưa thích</string>
+  <string name="show_help_title">Hiện trợ giúp</string>
+  <string name="hide_help_title">Ẩn trợ giúp</string>
+  <string name="empty_title">Trống</string>
   <!-- Color picker help screen -->
-  <string name="color_picker_help_screen_title">Color Picker help</string>
-  <string name="color_picker_help_ab_title">Action bar:</string>
-  <string name="color_picker_help_ab_back_title">Back button:</string>
-  <string name="color_picker_help_ab_back_summary">Close the color picker without applying the new color, (cancel).\nThis has the same effect as clicking the back button on the navigation bar.</string>
-  <string name="color_picker_help_ab_name_title">Title:</string>
+  <string name="color_picker_help_screen_title">Trợ giúp chọn màu</string>
+  <string name="color_picker_help_ab_title">Thanh Hoạt động:</string>
+  <string name="color_picker_help_ab_back_title">Nút trở về:</string>
+  <string name="color_picker_help_ab_back_summary">Đóng bảng màu mà không áp dụng màu mới,(hủy bỏ).\Việc này có tác dụng giống nhấn vào nút trở về trên Thanh điều hướng.</string>
+  <string name="color_picker_help_ab_name_title">Tựa đề:</string>
   <string name="color_picker_help_ab_name_summary">Only shows the title, no additional functions</string>
   <string name="color_picker_help_ab_hex_title">Hex value:</string>
   <string name="color_picker_help_ab_hex_summary">Shows the hex input field.\nHex values have to be in hex color format:\n\'#aarrggbb\', (\'alpha\' (transparency), \'red\', \'green\' and \'blue\').\nThe back button closes the hex input field without setting the hex value.\nThe apply button sets the hex value as new color without applying the new color.</string>
@@ -72,7 +72,7 @@
   <!-- Categories -->
   <!-- Status bar -->
   <!-- Tabs -->
-  <string name="statusbar_icons_tab_title">Icons</string>
+  <string name="statusbar_icons_tab_title">Biểu tượng</string>
   <string name="statusbar_clock_tab">Clock</string>
   <string name="statusbar_other_tab_title">Other</string>
   <!-- General -->
