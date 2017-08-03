@@ -104,8 +104,8 @@
   <string name="status_bar_battery_style_text">Testo</string>
   <string name="status_bar_battery_style_hidden">Nascosto</string>
   <!-- Status bar - Battery custom charging symbol -->
-  <string name="text_charging_symbol_title">Custom charging symbol for text style</string>
-  <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
+  <string name="text_charging_symbol_title">Simbolo di ricarica personalizzato per lo stile del testo</string>
+  <string name="text_charging_symbol_dialog">Simbolo di ricarica personalizzato vicino al valore della percentuale della batteria</string>
   <string name="text_charging_symbol_default">Disabilitato</string>
   <string name="text_charging_symbol_flash">Flash</string>
   <string name="text_charging_symbol_tilde">Tilde</string>
@@ -173,16 +173,16 @@
   <string name="battery_bar_blend_color_reverse_summary_on">Completo &#8594; vuota: rosso &#8594; verde &#8594; blu &#8594; rosso</string>
   <!-- Status Bar Ticker -->
   <string name="ticker_screen_title">Ticker</string>
-  <string name="ticker_title">Status Bar Ticker</string>
-  <string name="ticker_screen_summary">Customize the ticker style</string>
-  <string name="ticker_summary">Enable the status bar ticker</string>
-  <string name="ticker_restore_defaults_title">Restore defaults</string>
-  <string name="text_title">Text</string>
-  <string name="icon_title">Icon</string>
-  <string name="colors_title">Colors</string>
-  <string name="values_restored_title">Values restored</string>
-  <string name="ticker_disabled">No ticker</string>
-  <string name="ticker_enabled">Notification ticker</string>
+  <string name="ticker_title">Ticker sulla barra di stato</string>
+  <string name="ticker_screen_summary">Personalizza lo stile del Ticker</string>
+  <string name="ticker_summary">Abilita ticker sulla barra di stato</string>
+  <string name="ticker_restore_defaults_title">Ripristina predefinite</string>
+  <string name="text_title">Testo</string>
+  <string name="icon_title">Icona</string>
+  <string name="colors_title">Colori</string>
+  <string name="values_restored_title">Valori ripristinati</string>
+  <string name="ticker_disabled">Nessun ticker</string>
+  <string name="ticker_enabled">Ticker di notifica</string>
   <string name="ticker_media_enabled">Notifications and music ticker</string>
   <!-- Data/Wifi activity arrows -->
   <string name="data_wifi_category_title">Data/WiFi Icon</string>
