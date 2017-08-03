@@ -186,7 +186,7 @@
   <string name="ticker_media_enabled">Notifications and music ticker</string>
   <!-- Data/Wifi activity arrows -->
   <string name="data_wifi_category_title">Icona dati/WiFi</string>
-  <string name="data_wifi_activity_arrows_title">Mostra indicatori di attività del traffico dati/wifi</string>
+  <string name="data_wifi_activity_arrows_title">Mostra attività dati/WiFi</string>
   <string name="data_wifi_activity_arrows_summary">Mostra frecce di attività di dati/wifi</string>
   <!-- VoLTE icon -->
   <string name="volte_icon_title">VoLTE icon</string>
