@@ -629,9 +629,9 @@
   <string name="dashboard_columns_title">Colonne Dashboard</string>
   <string name="dashboard_columns_summary">Cambia il numero di colonne in dashboard (Impostazioni)</string>
   <string name="dashboard_columns_dialog_title">Seleziona colonne dashboard</string>
-  <string name="dashboard_columns_default">One (two landscape)</string>
-  <string name="dashboard_columns_two">Two (three landscape)</string>
-  <string name="dashboard_columns_three">Three (four landscape)</string>
+  <string name="dashboard_columns_default">Una (due orizzontali)</string>
+  <string name="dashboard_columns_two">Due (tre orizzontali)</string>
+  <string name="dashboard_columns_three">Tre (quattro orizzontali)</string>
   <!-- OwnROM Center -->
   <string name="owncenter">OwnROM Center</string>
   <string name="owncenter_ota_tab">OTA</string>
