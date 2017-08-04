@@ -626,9 +626,9 @@
   <string name="selinux_enforcing_title">Enforcing</string>
   <!-- Dashboard columns -->
   <string name="dashboard_category_title">Dashboard</string>
-  <string name="dashboard_columns_title">Dashboard Columns</string>
-  <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard (Settings)</string>
-  <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
+  <string name="dashboard_columns_title">Colonne Dashboard</string>
+  <string name="dashboard_columns_summary">Cambia il numero di colonne in dashboard (Impostazioni)</string>
+  <string name="dashboard_columns_dialog_title">Seleziona colonne dashboard</string>
   <string name="dashboard_columns_default">One (two landscape)</string>
   <string name="dashboard_columns_two">Two (three landscape)</string>
   <string name="dashboard_columns_three">Three (four landscape)</string>
@@ -660,7 +660,7 @@
   <string name="ownrom_fb_title">Facebook</string>
   <string name="ownrom_fb_summary">Visita e/o seguici su Facebook</string>
   <string name="ownrom_telegram_title">OwnROM Telegram</string>
-  <string name="ownrom_telegram_summary">Join our Telegram group to stay updated and file feature requests!</string>
+  <string name="ownrom_telegram_summary">Unisciti al nostro gruppo Telegram per aggiornamenti e richieste!</string>
   <string name="ownrom_translations_title">Traduzione Crowding</string>
   <string name="ownrom_translations_summary">Aiutaci a tradurre OwnRom nella tua lingua</string>
   <!-- Team -->
