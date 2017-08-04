@@ -189,10 +189,10 @@
   <string name="data_wifi_activity_arrows_title">Mostra attività dati/WiFi</string>
   <string name="data_wifi_activity_arrows_summary">Mostra frecce di attività di dati/wifi</string>
   <!-- VoLTE icon -->
-  <string name="volte_icon_title">VoLTE icon</string>
-  <string name="volte_icon_summary">Display VoLTE icon when available</string>
-  <string name="show_4g_title">Show 4G</string>
-  <string name="show_4g_summary">Show 4g instead of LTE in signal icons</string>
+  <string name="volte_icon_title">VoLTE icona</string>
+  <string name="volte_icon_summary">Mostra icona VoLTE quando disponibile</string>
+  <string name="show_4g_title">Mostra 4G</string>
+  <string name="show_4g_summary">Visualizza 4g invece di LTE nelle icone del segnale</string>
   <!-- Button Settings -->
   <string name="button_settings_title">Pulsanti</string>
   <string name="button_navigation_tab">Navigazione</string>
@@ -446,9 +446,9 @@
   <!-- Quick settings tiles size -->
   <string name="sysui_qqs_count_title">Small QS tiles count</string>
   <!-- QS Rows & Collumns -->
-  <string name="qs_rows_portrait_title">Rows (portrait)</string>
-  <string name="qs_rows_landscape_title">Rows (landscape)</string>
-  <string name="qs_columns_title">Columns</string>
+  <string name="qs_rows_portrait_title">Righe (portrait)</string>
+  <string name="qs_rows_landscape_title">Righe (landscape)</string>
+  <string name="qs_columns_title">Colonne</string>
   <!-- Notification Drawer Settings -->
   <string name="notification_drawer_settings_title">Pannello notifiche</string>
   <string name="drawer_messages_tab_title">Messaggi</string>
