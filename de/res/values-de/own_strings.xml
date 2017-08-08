@@ -45,7 +45,7 @@
   <string name="color_picker_help_ab_name_title">Titel:</string>
   <string name="color_picker_help_ab_name_summary">Zeigt nur den Titel, keine Zusatzfunktionen</string>
   <string name="color_picker_help_ab_hex_title">Hex-Wert:</string>
-  <string name="color_picker_help_ab_hex_summary">Shows the hex input field.\nHex values have to be in hex color format:\n\'#aarrggbb\', (\'alpha\' (transparency), \'red\', \'green\' and \'blue\').\nThe back button closes the hex input field without setting the hex value.\nThe apply button sets the hex value as new color without applying the new color.</string>
+  <string name="color_picker_help_ab_hex_summary">Zeigt das hex-Eingabefeld.\nHex-Werte müssen dem hex-Farbformat entsprechen:\n\'#aarrggbb\', (\'alpha\' (Transparenz), \'red\' (Rot), \'green\' (Grün) und \'blue\' (Blau)).\nDer Zurückbutton schließt das hex-Eingabefeld, ohne den Wert zu übernehmen.\nDer Anwendebutton setzt den hex-Wert als die neue Farbe, ohne sie zu speichern.</string>
   <string name="color_picker_help_ab_color_apply_title">Vorschau und Anwendung der Farbe:</string>
   <string name="color_picker_help_ab_color_apply_summary">Die Vorschau der Farbe ist immer sichtbar.\nWen die neue Farbe nicht der alten entspricht wird die Vorschau erweitert, um die Auswahl einer neuen Farbe zu ermöglichen.</string>
   <string name="color_picker_help_ab_menu_title">Menü-Taste:</string>
@@ -59,12 +59,12 @@
   <string name="color_picker_help_ab_menu_help_summary">Diesen Hilfe-Bildschirm anzeigen.</string>
   <string name="color_picker_help_colors_title">Farbe:</string>
   <string name="color_picker_help_picker_view_title">Farbfeld:</string>
-  <string name="color_picker_help_picker_view_summary">Pick a color to set a new color without applying the new color.\nThe color range can be changed using the slider on the right side</string>
+  <string name="color_picker_help_picker_view_summary">Wähle eine Farbe aus, ohne sie zu speichern.\nDer Farbabschnitt kann über den Regler an der rechten Seite geändert werden</string>
   <string name="color_picker_help_color_buttons_title">Farbauswahlflächen:</string>
   <string name="color_picker_help_favorites_title">Favoriten:</string>
-  <string name="color_picker_help_favorites_summary">Favorites are empty by default.\nThe new color can be saved as a favorite at any time via long click, (a none empty favorite will be overwritten by the new color).\nA click sets the favorite color as new color, without applying the new color.</string>
-  <string name="color_picker_help_palette_title">Palette:\n(OwnROM, Material and RGB)</string>
-  <string name="color_picker_help_palette_summary">All palette colors have a fixed value.\nA click sets the favorite color as new color, without applying the new color.</string>
+  <string name="color_picker_help_favorites_summary">Favoriten sind standardmäßig leer.\nDie neue Farbe kann jederzeit über gedrückt halten als Favorit gespeichert werden (ein bereits belegter Favorit wird überschrieben). \nEin Klick auf einen Favoriten wählt dessen Farbe aus, ohne sie zu speichern.</string>
+  <string name="color_picker_help_palette_title">Palette:\n(OwnROM, Material und RGB)</string>
+  <string name="color_picker_help_palette_summary">Alle Palettenfarben haben einen festen Wert.\nEin Klick wählt die favorisierte Farbe als neue Farbe aus, ohne sie zu übernehmen.</string>
   <string name="color_picker_help_do_not_show_title">Nicht noch einmal anzeigen</string>
   <string name="color_picker_help_button_ok_title">OK</string>
   <!-- OwnSettings -->
@@ -81,7 +81,7 @@
   <string name="status_bar_notif_count_title">Benachrichtigungszähler anzeigen</string>
   <string name="status_bar_notif_count_summary">Anzahl der ungelesenen Benachrichtigungen anzeigen</string>
   <string name="status_bar_quick_qs_pulldown_title">Schnelles Öffnen</string>
-  <string name="status_bar_quick_qs_pulldown_summary">%1$s edge of the status bar pulls down Quick Settings</string>
+  <string name="status_bar_quick_qs_pulldown_summary">Herunterziehen der Benachrichtigungsleiste am %1$s Rand öffnet die Schnelleinstellungen</string>
   <string name="status_bar_quick_qs_pulldown_off">Ausgeschaltet</string>
   <string name="status_bar_quick_qs_pulldown_left">Links</string>
   <string name="status_bar_quick_qs_pulldown_right">Rechts</string>
@@ -116,7 +116,7 @@
   <string name="status_bar_battery_percentage_text_next">Neben dem Symbol</string>
   <!-- Status bar - icon blacklist -->
   <string name="status_bar_icons_title">Statusleistensymbole</string>
-  <string name="status_bar_icons_summary">Control which status bar icons are shown</string>
+  <string name="status_bar_icons_summary">Bestimmen, welche Statusleistesymbole angezeigt werden</string>
   <!-- Status bar - double tap to sleep -->
   <string name="status_bar_double_tap_to_sleep_title">Doppelt Tippen für Schlafmodus</string>
   <string name="status_bar_double_tap_to_sleep_summary">Doppelt auf die Statusleiste tippen, um das Display auzuschalten</string>
@@ -140,7 +140,7 @@
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
   <string name="network_traffic_autohide">Automatisch ausblenden</string>
-  <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
+  <string name="network_traffic_autohide_summary">Netzwerkanzeige bei Inaktivität verbergen</string>
   <string name="network_traffic_autohide_threshold">Inaktivitätsschwelle</string>
   <string name="network_traffic_hidearrow_title">Pfeile ausblenden</string>
   <string name="network_traffic_hidearrow_summary">Verbirgt die Pfeile des Netzwerkverkehrs</string>
@@ -167,10 +167,10 @@
   <string name="battery_bar_style_reversed">Umgekehrt</string>
   <string name="battery_bar_use_charging_color">Benutzerdefinierte Farbe beim Laden</string>
   <string name="battery_bar_blend_color_title">Farben mischen</string>
-  <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
-  <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
-  <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
-  <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
+  <string name="battery_bar_blend_color_summary">Passe die Farben passend zum Akkustand an</string>
+  <string name="battery_bar_blend_color_reverse_title">Farben umkehren</string>
+  <string name="battery_bar_blend_color_reverse_summary_off">Voll &#8594; leer: Rot &#8592; Grün &#8592; Blau &#8592; Rot</string>
+  <string name="battery_bar_blend_color_reverse_summary_on">Voll &#8594; leer: Rot &#8594; Grün &#8594; Blau &#8594; Rot</string>
   <!-- Status Bar Ticker -->
   <string name="ticker_screen_title">Benachrichtigungsticker</string>
   <string name="ticker_title">Statusleisten-Benachrichtigungsticker</string>
@@ -240,7 +240,7 @@
   <string name="button_wake_title">Gerät aufwecken</string>
   <string name="button_wake_title_summary">Gerät durch Drücken einer der beiden Lautstärketasten aufwecken</string>
   <string name="home_answer_call_title">Anruf annehmen</string>
-  <string name="home_answer_call_summary">Pressing the home button will answer the current incoming call</string>
+  <string name="home_answer_call_summary">Eingehende Anrufe werden durch Drücken der Home-Taste angenommen</string>
   <string name="kill_app_longpress_back">Anwendung beenden mit Zurück-Taste</string>
   <string name="kill_app_longpress_back_summary">Beenden der Vordergrund-App durch langes Drücken der Zurück-Taste</string>
   <!-- Key backlight -->
@@ -253,7 +253,7 @@
   <string name="backlight_timeout_title">Beleuchtungsdauer</string>
   <string name="backlight_timeout_unlimited">Bitte nicht ausschalten</string>
   <string name="backlight_summary_disabled">Ausgeschaltet</string>
-  <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
+  <string name="backlight_summary_enabled_with_timeout">Aktiviert für <xliff:g id="timeout"> %s </xliff:g></string>
   <string name="backlight_summary_enabled">Eingeschaltet</string>
   <!-- Navigation Bar -->
   <string name="navbar_interface_title">Interface</string>
