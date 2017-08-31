@@ -16,12 +16,12 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General Strings -->
-  <string name="general">General</string>
-  <string name="default_string">Default</string>
-  <string name="reset">Reset</string>
+  <string name="general">Generelt</string>
+  <string name="default_string">Standard</string>
+  <string name="reset">Tilbakestill</string>
   <!-- Color picker -->
-  <string name="color_picker_fragment_title">Color Picker</string>
-  <string name="apply_color_title">Apply color</string>
+  <string name="color_picker_fragment_title">Fargeutvalg</string>
+  <string name="apply_color_title">Angi farge</string>
   <string name="press_color_to_apply">Press on color below to apply</string>
   <string name="edit_hex_title">HEX value</string>
   <string name="reset_android_title">Android default</string>
