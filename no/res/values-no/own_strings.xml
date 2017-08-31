@@ -91,7 +91,7 @@
   <string name="status_bar_clock_position_left">Venstre</string>
   <string name="status_bar_clock_position_center">Midt</string>
   <string name="status_bar_am_pm_title">AM/PM-format</string>
-  <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
+  <string name="status_bar_am_pm_info">24-timersformat er i bruk</string>
   <string name="status_bar_am_pm_normal">Normal</string>
   <string name="status_bar_am_pm_small">Liten</string>
   <string name="status_bar_am_pm_hidden">Gjemt</string>
