@@ -22,9 +22,9 @@
   <!-- Color picker -->
   <string name="color_picker_fragment_title">Fargeutvalg</string>
   <string name="apply_color_title">Angi farge</string>
-  <string name="press_color_to_apply">Press on color below to apply</string>
-  <string name="edit_hex_title">HEX value</string>
-  <string name="reset_android_title">Android default</string>
+  <string name="press_color_to_apply">Trykk på en av fargene under for å angi den</string>
+  <string name="edit_hex_title">Heksadesimalverdi</string>
+  <string name="reset_android_title">Android-standard</string>
   <string name="palette_darkkat_title">OwnROM</string>
   <string name="palette_material_title">Material</string>
   <string name="palette_rgb_title">RGB</string>
