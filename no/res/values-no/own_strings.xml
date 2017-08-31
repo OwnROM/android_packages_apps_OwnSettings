@@ -65,16 +65,16 @@
   <string name="color_picker_help_favorites_summary">Favorites are empty by default.\nThe new color can be saved as a favorite at any time via long click, (a none empty favorite will be overwritten by the new color).\nA click sets the favorite color as new color, without applying the new color.</string>
   <string name="color_picker_help_palette_title">Palette:\n(OwnROM, Material and RGB)</string>
   <string name="color_picker_help_palette_summary">All palette colors have a fixed value.\nA click sets the favorite color as new color, without applying the new color.</string>
-  <string name="color_picker_help_do_not_show_title">Don\'t show again</string>
+  <string name="color_picker_help_do_not_show_title">Ikke vis igjen</string>
   <string name="color_picker_help_button_ok_title">OK</string>
   <!-- OwnSettings -->
   <string name="ownsettings_title">OwnSettings</string>
   <!-- Categories -->
   <!-- Status bar -->
   <!-- Tabs -->
-  <string name="statusbar_icons_tab_title">Icons</string>
-  <string name="statusbar_clock_tab">Clock</string>
-  <string name="statusbar_other_tab_title">Other</string>
+  <string name="statusbar_icons_tab_title">Ikoner</string>
+  <string name="statusbar_clock_tab">Klokke</string>
+  <string name="statusbar_other_tab_title">Andre</string>
   <!-- General -->
   <string name="status_bar_toggle_brightness">Brightness control</string>
   <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
@@ -91,7 +91,7 @@
   <string name="status_bar_clock_position_left">Venstre</string>
   <string name="status_bar_clock_position_center">Midt</string>
   <string name="status_bar_am_pm_title">AM/PM-format</string>
-  <string name="status_bar_am_pm_info">24-timersformat er i bruk</string>
+  <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
   <string name="status_bar_am_pm_normal">Normal</string>
   <string name="status_bar_am_pm_small">Liten</string>
   <string name="status_bar_am_pm_hidden">Gjemt</string>
@@ -100,9 +100,9 @@
   <string name="status_bar_battery_style_title">Battery status style</string>
   <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
   <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
-  <string name="status_bar_battery_style_circle">Circle</string>
-  <string name="status_bar_battery_style_text">Text</string>
-  <string name="status_bar_battery_style_hidden">Hidden</string>
+  <string name="status_bar_battery_style_circle">Sirkel</string>
+  <string name="status_bar_battery_style_text">Tekst</string>
+  <string name="status_bar_battery_style_hidden">Gjemt</string>
   <!-- Status bar - Battery custom charging symbol -->
   <string name="text_charging_symbol_title">Custom charging symbol for text style</string>
   <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
@@ -120,7 +120,7 @@
   <!-- Status bar - double tap to sleep -->
   <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
   <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar to turn off the display</string>
-  <string name="statusbar_settings_title">StatusBar</string>
+  <string name="statusbar_settings_title">Statuslinje</string>
   <!-- Bluetooth status -->
   <string name="bluetooth_battery_title">Show Bluetooth battery status</string>
   <string name="bluetooth_battery_summary">Show battery status for the currently connected bluetooth device, if availible.</string>
@@ -151,7 +151,7 @@
   <string name="battery_bar_title">Battery bar</string>
   <string name="battery_bar">Battery bar location</string>
   <string name="battery_bar_no_navbar">Battery bar location</string>
-  <string name="battery_bar_location_hide">Hide</string>
+  <string name="battery_bar_location_hide">Gjem</string>
   <string name="battery_bar_location_statusbar">Statusbar</string>
   <string name="battery_bar_location_top_navbar">Top of navbar</string>
   <string name="battery_bar_location_bottom_navbar">Bottom of navbar</string>
@@ -177,9 +177,9 @@
   <string name="ticker_screen_summary">Customize the ticker style</string>
   <string name="ticker_summary">Enable the status bar ticker</string>
   <string name="ticker_restore_defaults_title">Restore defaults</string>
-  <string name="text_title">Text</string>
-  <string name="icon_title">Icon</string>
-  <string name="colors_title">Colors</string>
+  <string name="text_title">Tekst</string>
+  <string name="icon_title">Ikoner</string>
+  <string name="colors_title">Farger</string>
   <string name="values_restored_title">Values restored</string>
   <string name="ticker_disabled">No ticker</string>
   <string name="ticker_enabled">Notification ticker</string>
@@ -198,7 +198,7 @@
   <string name="button_navigation_tab">Navigation</string>
   <string name="button_power_tab">Power Button</string>
   <string name="button_volume_tab">Volume Buttons</string>
-  <string name="button_other_tab">Other</string>
+  <string name="button_other_tab">Andre</string>
   <string name="softkeys_title">Software Navigation</string>
   <string name="hardware_keys">Hardware Navigation</string>
   <!-- Button settings -->
@@ -217,7 +217,7 @@
   <string name="hardware_keys_action_menu">Open/close menu</string>
   <string name="hardware_keys_action_app_switch">Recent apps switcher</string>
   <string name="hardware_keys_action_search">Search assistant</string>
-  <string name="hardware_keys_action_voice_search">Voice search</string>
+  <string name="hardware_keys_action_voice_search">Talesøk</string>
   <string name="hardware_keys_action_in_app_search">In-app search</string>
   <string name="hardware_keys_action_launch_camera">Launch camera</string>
   <string name="hardware_keys_action_sleep">Turn screen off</string>
