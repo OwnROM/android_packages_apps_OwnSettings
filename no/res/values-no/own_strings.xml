@@ -45,7 +45,7 @@
   <string name="color_picker_help_ab_name_title">Tittel:</string>
   <string name="color_picker_help_ab_name_summary">Viser kun tittelen, ingen ekstra funksjoner</string>
   <string name="color_picker_help_ab_hex_title">Heksadesimalverdi:</string>
-  <string name="color_picker_help_ab_hex_summary">Shows the hex input field.\nHex values have to be in hex color format:\n\'#aarrggbb\', (\'alpha\' (transparency), \'red\', \'green\' and \'blue\').\nThe back button closes the hex input field without setting the hex value.\nThe apply button sets the hex value as new color without applying the new color.</string>
+  <string name="color_picker_help_ab_hex_summary">Viser heksadesimaltilførselsfeltet.\nHeksadesimalverdier må være i heksadesimalfargeformatet:\n\'#aarrggbb\', (\'alfa\' (\'gjennomsiktighet\'), \'rød\', \'grønn\' og \'blå\').\nTilbakeknappen lukker heksadesimaltilførselsfeltet uten å lagre heksadesimalverdien.\nAngivelsesknappen lagrer heksadesimalverdien som en ny farge uten å angi den.</string>
   <string name="color_picker_help_ab_color_apply_title">Fargeforhåndsvisning og -angivelse:</string>
   <string name="color_picker_help_ab_color_apply_summary">The color preview is always visible.\nIf the new color doesn\'t equals the old color, the color preview will be expanded, to allow apply the new color.</string>
   <string name="color_picker_help_ab_menu_title">Menyknapp:</string>
