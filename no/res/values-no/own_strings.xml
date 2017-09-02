@@ -91,7 +91,7 @@
   <string name="status_bar_clock_position_left">Venstre</string>
   <string name="status_bar_clock_position_center">Midt</string>
   <string name="status_bar_am_pm_title">AM/PM-format</string>
-  <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
+  <string name="status_bar_am_pm_info">24-timersformat er i bruk</string>
   <string name="status_bar_am_pm_normal">Normal</string>
   <string name="status_bar_am_pm_small">Liten</string>
   <string name="status_bar_am_pm_hidden">Gjemt</string>
@@ -107,11 +107,11 @@
   <string name="text_charging_symbol_title">Custom charging symbol for text style</string>
   <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
   <string name="text_charging_symbol_default">Disabled</string>
-  <string name="text_charging_symbol_flash">Flash</string>
+  <string name="text_charging_symbol_flash">Blits</string>
   <string name="text_charging_symbol_tilde">Tilde</string>
   <!-- Status bar - Battery percentage -->
   <string name="status_bar_battery_percentage_title">Battery percentage</string>
-  <string name="status_bar_battery_percentage_default">Hidden</string>
+  <string name="status_bar_battery_percentage_default">Gjemt</string>
   <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
   <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
   <!-- Status bar - icon blacklist -->
@@ -142,7 +142,7 @@
   <string name="network_traffic_autohide">Auto hide</string>
   <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
   <string name="network_traffic_autohide_threshold">Inactivity threshold</string>
-  <string name="network_traffic_hidearrow_title">Hide arrows</string>
+  <string name="network_traffic_hidearrow_title">Gjem piler</string>
   <string name="network_traffic_hidearrow_summary">Hide arrows in traffic indicator</string>
   <string name="network_traffic_color_style">Color style</string>
   <string name="network_traffic_color_reset">Reset color</string>
@@ -152,17 +152,17 @@
   <string name="battery_bar">Battery bar location</string>
   <string name="battery_bar_no_navbar">Battery bar location</string>
   <string name="battery_bar_location_hide">Gjem</string>
-  <string name="battery_bar_location_statusbar">Statusbar</string>
+  <string name="battery_bar_location_statusbar">Statuslinje</string>
   <string name="battery_bar_location_top_navbar">Top of navbar</string>
   <string name="battery_bar_location_bottom_navbar">Bottom of navbar</string>
-  <string name="battery_bar_color">Battery bar color</string>
+  <string name="battery_bar_color">Batterifarge</string>
   <string name="battery_bar_charging_color">Battery bar charging color</string>
   <string name="battery_bar_battery_low_color">Battery bar low battery color</string>
   <string name="battery_bar_cat">Battery bar style</string>
   <string name="battery_bar_style_title">Battery bar alignment</string>
   <string name="battery_bar_thickness_title">Battery bar thickness</string>
   <string name="battery_bar_animate_title">Charging animation</string>
-  <string name="battery_bar_style_regular">Regular</string>
+  <string name="battery_bar_style_regular">Vanlig</string>
   <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
   <string name="battery_bar_style_reversed">Reversed</string>
   <string name="battery_bar_use_charging_color">Custom charging color</string>
@@ -194,7 +194,7 @@
   <string name="show_4g_title">Show 4G</string>
   <string name="show_4g_summary">Show 4g instead of LTE in signal icons</string>
   <!-- Button Settings -->
-  <string name="button_settings_title">Buttons</string>
+  <string name="button_settings_title">Knapper</string>
   <string name="button_navigation_tab">Navigation</string>
   <string name="button_power_tab">Power Button</string>
   <string name="button_volume_tab">Volume Buttons</string>
