@@ -513,7 +513,7 @@
   <string name="listview_wave_left">Wave (left)</string>
   <string name="listview_wave_right">Wave (right)</string>
   <string name="listview_alpha">Alfa</string>
-  <string name="listview_scale">Scale</string>
+  <string name="listview_scale">Skala</string>
   <string name="listview_stack_top">Stack (top)</string>
   <string name="listview_stack_bottom">Stack (bottom)</string>
   <string name="listview_unfold">Unfold</string>
