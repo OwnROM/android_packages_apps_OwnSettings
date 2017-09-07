@@ -16,7 +16,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General Strings -->
-  <string name="general">Общие</string>
+  <string name="general">Основное</string>
   <string name="default_string">По умолчанию</string>
   <string name="reset">Сброс</string>
   <!-- Color picker -->
@@ -515,23 +515,23 @@
   <string name="listview_alpha">Проявление</string>
   <string name="listview_scale">Увеличение</string>
   <string name="listview_stack_top">Стек (сверху)</string>
-  <string name="listview_stack_bottom">Stack (bottom)</string>
-  <string name="listview_unfold">Unfold</string>
-  <string name="listview_fold">Fold</string>
-  <string name="listview_translate_left">Translate (left)</string>
-  <string name="listview_translate_right">Translate (right)</string>
+  <string name="listview_stack_bottom">Стек (снизу)</string>
+  <string name="listview_unfold">Раскрытие</string>
+  <string name="listview_fold">Складывание</string>
+  <string name="listview_translate_left">Сдвиг (слева)</string>
+  <string name="listview_translate_right">Сдвиг (справа)</string>
   <!-- ListView interpolator -->
-  <string name="listview_interpolator_title">Interpolator</string>
-  <string name="listview_accelerate_interpolator">Accelerate</string>
-  <string name="listview_decelerate_interpolator">Decelerate</string>
-  <string name="listview_accelerate_decelerate_interpolator">Accelerate and decelerate</string>
-  <string name="listview_anticipate_interpolator">Anticipate</string>
-  <string name="listview_overshoot_interpolator">Overshoot</string>
-  <string name="listview_anticipate_overshoot_interpolator">Anticipate and overshoot</string>
-  <string name="listview_bounce_interpolator">Bounce</string>
+  <string name="listview_interpolator_title">Эффект анимации</string>
+  <string name="listview_accelerate_interpolator">Ускорение</string>
+  <string name="listview_decelerate_interpolator">Замедление</string>
+  <string name="listview_accelerate_decelerate_interpolator">Ускорение и замедление</string>
+  <string name="listview_anticipate_interpolator">Приближение</string>
+  <string name="listview_overshoot_interpolator">Вылет</string>
+  <string name="listview_anticipate_overshoot_interpolator">Приближение и вылет</string>
+  <string name="listview_bounce_interpolator">Отскок</string>
   <!-- Option to enable/disable scrolling cache -->
-  <string name="pref_scrollingcache_title">Scrolling cache</string>
-  <string name="pref_scrollingcache_summary">Scrolling cache may improve scrolling performance at the cost of memory</string>
+  <string name="pref_scrollingcache_title">Кэш прокрутки</string>
+  <string name="pref_scrollingcache_summary">Кеш прокрутки может повысить быстродействие при прокрутки за счет использования памяти</string>
   <string name="pref_scrollingcache_force_enable">Force enable</string>
   <string name="pref_scrollingcache_default_enable">Default enable</string>
   <string name="pref_scrollingcache_default_disable">Default disable</string>
@@ -636,33 +636,33 @@
   <string name="owncenter">Центр OwnROM</string>
   <string name="owncenter_ota_tab">OTA</string>
   <string name="own_updater_title">Обновления</string>
-  <string name="own_updater_summary">Update your ROM, G-Apps and other stuf</string>
-  <string name="ownrom_maintainers">Maintainers</string>
-  <string name="ownrom_donation_link">Donate</string>
-  <string name="ownrom_donation_link_summary">Help us make OwnROM even better by donating trough PayPall</string>
+  <string name="own_updater_summary">Обновите свой ROM, G-Apps и другие</string>
+  <string name="ownrom_maintainers">Разработчики</string>
+  <string name="ownrom_donation_link">Поддержка</string>
+  <string name="ownrom_donation_link_summary">Помогите нам сделать OwnROM лучше, пожертвовав через PayPall</string>
   <!-- Changelog -->
-  <string name="changelog_ownrom_title">Changelog</string>
-  <string name="changelog_ownrom_error">Unable to load changelog</string>
+  <string name="changelog_ownrom_title">Список изменений</string>
+  <string name="changelog_ownrom_error">Ошибка загрузки списка изменений</string>
   <!-- Share OwnROM -->
-  <string name="share_ownrom_title">Share OwnROM</string>
-  <string name="share_ownrom_summary">Let others know about OwnROM</string>
-  <string name="share_message">Check out what #OwnROM is all about @ Google+: https://plus.google.com/communities/108869588356214314591</string>
-  <string name="share_chooser_title">Share OwnROM</string>
+  <string name="share_ownrom_title">Рассказать о OwnROM</string>
+  <string name="share_ownrom_summary">Пусть другие знают о OwnROM</string>
+  <string name="share_message">Узнайте, что такое #OwnROM @ Google +: https://plus.google.com/communities/108869588356214314591</string>
+  <string name="share_chooser_title">Рассказать о OwnROM</string>
   <!-- OTA OwnROM -->
-  <string name="ownrom_source_title">Github</string>
-  <string name="ownrom_source_summary">Visit our source git team</string>
+  <string name="ownrom_source_title">GitHub</string>
+  <string name="ownrom_source_summary">Посетите наш источник команды git</string>
   <string name="ownrom_google_plus_title">Google+</string>
-  <string name="ownrom_google_plus_summary">Visit our G+ page for support and news</string>
-  <string name="ownrom_website_title">OwnDroid Website</string>
-  <string name="ownrom_website_summary">Visit our website for downloads and updates</string>
+  <string name="ownrom_google_plus_summary">Посетите нашу страницу G+ для поддержки и новостей</string>
+  <string name="ownrom_website_title">Сайт OwnDroid</string>
+  <string name="ownrom_website_summary">Посетите наш веб-сайт для загрузки и обновления</string>
   <string name="ownrom_walls_title">OwnWalls</string>
-  <string name="ownrom_walls_summary">Download all kinds of Wallpapers</string>
+  <string name="ownrom_walls_summary">Загрузите все виды обоев</string>
   <string name="ownrom_fb_title">Facebook</string>
-  <string name="ownrom_fb_summary">Fisit and/or follow us on Facebook</string>
-  <string name="ownrom_telegram_title">OwnROM Telegram</string>
-  <string name="ownrom_telegram_summary">Join our Telegram group to stay updated and file feature requests!</string>
-  <string name="ownrom_translations_title">Crowdin translations</string>
-  <string name="ownrom_translations_summary">Help us translate OwnROM to your desired language</string>
+  <string name="ownrom_fb_summary">Посетите и/или следите за нами на Facebook</string>
+  <string name="ownrom_telegram_title">OwnROM в Телеграмм</string>
+  <string name="ownrom_telegram_summary">Присоединяйтесь к нашей группе Telegram, чтобы оставаться в курсе обновлений и запросов к файлам!</string>
+  <string name="ownrom_translations_title">Переводы Crowdin</string>
+  <string name="ownrom_translations_summary">Помогите нам перевести OwnROM на ваш язык</string>
   <!-- Team -->
-  <string name="team_ownrom_title">Team</string>
+  <string name="team_ownrom_title">Наша команда</string>
 </resources>
