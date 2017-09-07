@@ -605,37 +605,37 @@
   <string name="recents_clear_all_location_bottom_center">Внизу в центре</string>
   <string name="recents_clear_all_title">Кнопка «Очистить всё»</string>
   <string name="rr_recents_animations_title">Недавние приложения</string>
-  <string name="recents_anim_title">Анимации недавних приложений</string>
-  <string name="recents_anim_summary">Customize the Delay of Recents window and its actions</string>
+  <string name="recents_anim_title">Анимация открытия «Недавних приложений»</string>
+  <string name="recents_anim_summary">Настройка задержки окна «Недавние приложения»  и его действия</string>
   <!-- OmniSwitch -->
-  <string name="recents_use_omniswitch_title">Use for recents</string>
-  <string name="recents_use_omniswitch_summary">Use OmniSwitch instead of default recents view</string>
-  <string name="omniswitch_start_settings_title">Settings</string>
-  <string name="omniswitch_start_settings_summary">Open OmniSwitch settings</string>
-  <string name="omniswitch_first_time_title">Information</string>
-  <string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>
-  <string name="omniswitch_settings_title">OmniSwitch</string>
+  <string name="recents_use_omniswitch_title">Использовать для «Недавних приложений» </string>
+  <string name="recents_use_omniswitch_summary">Использовать OmniSwtich для переключения между недавними приложениями</string>
+  <string name="omniswitch_start_settings_title">Настройки</string>
+  <string name="omniswitch_start_settings_summary">Открыть настройки OmniSwitch</string>
+  <string name="omniswitch_first_time_title">Информация</string>
+  <string name="omniswitch_first_time_message">Убедитесь, что функция OmniSwitch включена. Вы можете сделать это, используя настройки ниже</string>
+  <string name="omniswitch_settings_title">Настройки OmniSwitch</string>
   <!-- Misc Settings -->
-  <string name="own_misc_settings">Misc Settings</string>
+  <string name="own_misc_settings">Прочие настройки</string>
   <!-- Selinux Switch -->
-  <string name="selinux_category_title">Selinux</string>
-  <string name="selinux_switch_title">Selinux options</string>
-  <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects.Needs root to work, use at your own risk</string>
-  <string name="selinux_title">Selinux Mode</string>
-  <string name="selinux_permissive_title">Permissive</string>
-  <string name="selinux_enforcing_title">Enforcing</string>
+  <string name="selinux_category_title">SELinux</string>
+  <string name="selinux_switch_title">Опции SELinux</string>
+  <string name="selinux_switch_summary">SELinux - это набор модификаций ядра и инструментов пользовательского пространства. Изменение режимов может привести к нежелательным последствиям. Используйте на свой риск</string>
+  <string name="selinux_title">Режим SELinux</string>
+  <string name="selinux_permissive_title">Только предупреждение</string>
+  <string name="selinux_enforcing_title">Усиленная блокировка</string>
   <!-- Dashboard columns -->
-  <string name="dashboard_category_title">Dashboard</string>
-  <string name="dashboard_columns_title">Dashboard Columns</string>
-  <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard (Settings)</string>
-  <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
-  <string name="dashboard_columns_default">One (two landscape)</string>
-  <string name="dashboard_columns_two">Two (three landscape)</string>
-  <string name="dashboard_columns_three">Three (four landscape)</string>
+  <string name="dashboard_category_title">Панель мониторинга</string>
+  <string name="dashboard_columns_title">Столбцы панели мониторинга</string>
+  <string name="dashboard_columns_summary">Изменить количество столбцов, отображаемых в панели управления (Настройки)</string>
+  <string name="dashboard_columns_dialog_title">Выберите количество столбцов</string>
+  <string name="dashboard_columns_default">Один (два для ландшафта)</string>
+  <string name="dashboard_columns_two">Два (три для ландшафта)</string>
+  <string name="dashboard_columns_three">Три (четыре для ландшафта)</string>
   <!-- OwnROM Center -->
-  <string name="owncenter">OwnROM Center</string>
+  <string name="owncenter">Центр OwnROM</string>
   <string name="owncenter_ota_tab">OTA</string>
-  <string name="own_updater_title">Updater</string>
+  <string name="own_updater_title">Обновления</string>
   <string name="own_updater_summary">Update your ROM, G-Apps and other stuf</string>
   <string name="ownrom_maintainers">Maintainers</string>
   <string name="ownrom_donation_link">Donate</string>
