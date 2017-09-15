@@ -317,24 +317,24 @@
   <string name="long_swipe_reset">Zurücksetzen</string>
   <string name="fling_advanced">Erweitert</string>
   <string name="fling_long_swipe_title">Long swipe thresholds</string>
-  <string name="fling_long_swipe_summary">Fine tune long swipe thresholds based on a percentage of Fling interface width or height</string>
-  <string name="fling_trails_enable_title">Enable gesture trails</string>
-  <string name="fling_trails_enable_summary">Show a trail on swipe gestures</string>
-  <string name="fling_trails_color_title">Trail color</string>
-  <string name="fling_trails_width_title">Trail width</string>
-  <string name="fling_appearance">Appearance</string>
-  <string name="fling_show_logo_title">Show Fling logo</string>
-  <string name="fling_animate_logo_title">Animate logo</string>
-  <string name="fling_animate_logo_summary">Logo animates on touch events</string>
-  <string name="fling_logo_color">Logo color</string>
-  <string name="fling_logo_custom_logo_pick_title">Custom logo icon</string>
-  <string name="fling_logo_custom_logo_image_pick_title">Custom logo image</string>
-  <string name="fling_logo_custom_logo_reset_title">Reset logo icon</string>
-  <string name="fling_show_ripple_title">Show ripple</string>
+  <string name="fling_long_swipe_summary">Anpassen der Schwelle beim lang wischen basierend auf der Länge und Breite der Leiste</string>
+  <string name="fling_trails_enable_title">Gestenpfad aktivieren</string>
+  <string name="fling_trails_enable_summary">Wischgestenspur anzeigen</string>
+  <string name="fling_trails_color_title">Spurfarbe</string>
+  <string name="fling_trails_width_title">Spurenbreite</string>
+  <string name="fling_appearance">Erscheinungsbild</string>
+  <string name="fling_show_logo_title">Fling-Logo anzeigen</string>
+  <string name="fling_animate_logo_title">Symbol animieren</string>
+  <string name="fling_animate_logo_summary">Symbol wird bei Berührungen animiert</string>
+  <string name="fling_logo_color">Logofarbe</string>
+  <string name="fling_logo_custom_logo_pick_title">Benutzerdefiniertes Logo</string>
+  <string name="fling_logo_custom_logo_image_pick_title">Individuelles Logobild</string>
+  <string name="fling_logo_custom_logo_reset_title">Logo zurücksetzen</string>
+  <string name="fling_show_ripple_title">Toucheffekt anzeigen</string>
   <string name="fling_show_ripple_summary">Ripple effect on touch events</string>
-  <string name="fling_ripple_color">Ripple color</string>
-  <string name="fling_longpress_timeout_label_left">Less delay</string>
-  <string name="fling_longpress_timeout_label_right">More delay</string>
+  <string name="fling_ripple_color">Effektfarbe</string>
+  <string name="fling_longpress_timeout_label_left">Geringere Verzögerung</string>
+  <string name="fling_longpress_timeout_label_right">Höhere Verzögerung</string>
   <string name="fling_longpress_title">Long press delay</string>
   <string name="fling_longpress_summary">Increase or decrease the time it takes to execute a long press</string>
   <!-- Pulse navigation bar music visualizer -->
@@ -350,7 +350,7 @@
   <string name="fling_pulse_color">Pulse color</string>
   <string name="eos_fling_lavalamp_title">Turn on Lava Lamp</string>
   <string name="eos_fling_lavalamp_summary">Pulse animates a smooth lava lamp style color blend</string>
-  <string name="pulse_advanced_category">Advanced</string>
+  <string name="pulse_advanced_category">Erweitert</string>
   <string name="pulse_legacy_mode_advanced_category">Fading blocks mode settings</string>
   <string name="pulse_custom_fudge_factor">Sanity level</string>
   <string name="lavamp_solid_speed_title">Lava Lamp speed</string>
@@ -410,36 +410,36 @@
   <string name="one_handed_mode_summary">Allows swiping on the navigation bar to enable one handed mode</string>
   <string name="navbar_buttons_alpha_title">Button transparency</string>
   <!-- Power menu -->
-  <string name="power_menu_title">Power menu</string>
-  <string name="power_menu_reboot_title">Restart menu</string>
+  <string name="power_menu_title">Ausschaltmenü</string>
+  <string name="power_menu_reboot_title">Neustartmenü</string>
   <string name="power_menu_screenshot_title">Screenshot</string>
-  <string name="power_menu_airplane_title">Airplane mode</string>
-  <string name="power_menu_users_title">User switcher</string>
-  <string name="power_menu_settings_title">Settings shortcut</string>
-  <string name="power_menu_lockdown_title">Device lockdown</string>
-  <string name="power_menu_sound_title">Sound panel</string>
-  <string name="volume_keys_control_ring_stream_title">Control ringtone volume</string>
-  <string name="volume_keys_control_ring_stream_summary_on">Volume keys control ringtone volume</string>
-  <string name="volume_keys_control_ring_stream_summary_off">Volume keys control media volume</string>
-  <string name="camera_double_tap_power_gesture_title">Press power button twice for camera</string>
+  <string name="power_menu_airplane_title">Flugmodus</string>
+  <string name="power_menu_users_title">Benutzer wechseln</string>
+  <string name="power_menu_settings_title">Einstellungsverknüpfung</string>
+  <string name="power_menu_lockdown_title">Gerät sperren</string>
+  <string name="power_menu_sound_title">Ton Einstellungen</string>
+  <string name="volume_keys_control_ring_stream_title">Klingeltonlautstärke</string>
+  <string name="volume_keys_control_ring_stream_summary_on">Lautstärketasten steuern Klingeltonlautstärke</string>
+  <string name="volume_keys_control_ring_stream_summary_off">Lautstärketasten steuern Medienlautstärke</string>
+  <string name="camera_double_tap_power_gesture_title">Doppeltes Drücken des Power-Buttons aktiviert Kamera</string>
   <!-- Description of setting that controls gesture to open camera by double tapping the power button [CHAR LIMIT=NONE] -->
-  <string name="camera_double_tap_power_gesture_desc">Quickly open camera without unlocking your screen</string>
+  <string name="camera_double_tap_power_gesture_desc">Schnelles Öffnen der Kamera, ohne den Bildschirm zu entsperren</string>
   <!-- Other Button Settings -->
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot type</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
-  <string name="screenshot_type_partial">Drag selection on the area you want to take as a screenshot</string>
+  <string name="screenshot_type_title">Bildschirmfoto Typ</string>
+  <string name="screenshot_type_fullscreen">Vollbild Screenshot</string>
+  <string name="screenshot_type_partial">Auswahl auf den Bereich ziehen, der aufgenommen werden soll</string>
   <!-- Screenshot delay -->
-  <string name="screenshot_options_category">Screenshot options</string>
-  <string name="screenshot_delay_title">Screenshot delay</string>
+  <string name="screenshot_options_category">Screenshot Optionen</string>
+  <string name="screenshot_delay_title">Screenshot Verzögerung</string>
   <string name="screenshot_delay_summary">Adjust the time for when a screenshot is captured</string>
   <!-- Quick Settings -->
-  <string name="quick_settings_title">Quick Settings</string>
+  <string name="quick_settings_title">Schnelleinstellungen</string>
   <string name="quick_pulldown_title">Quick Pulldown</string>
-  <string name="qs_general_tab">General</string>
+  <string name="qs_general_tab">Allgemein</string>
   <!-- Quick Settings brightness slider -->
-  <string name="qs_brightness_slider_title">Brightness slider</string>
-  <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
+  <string name="qs_brightness_slider_title">Helligkeitsregler</string>
+  <string name="qs_brightness_slider_summary">Helligkeitsregler in den Schnelleinstellungen anzeigen</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">Brightness icon</string>
   <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
