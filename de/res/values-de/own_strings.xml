@@ -335,10 +335,10 @@
   <string name="fling_ripple_color">Effektfarbe</string>
   <string name="fling_longpress_timeout_label_left">Geringere Verzögerung</string>
   <string name="fling_longpress_timeout_label_right">Höhere Verzögerung</string>
-  <string name="fling_longpress_title">Long press delay</string>
-  <string name="fling_longpress_summary">Increase or decrease the time it takes to execute a long press</string>
+  <string name="fling_longpress_title">Menü Taste gedrückt halten</string>
+  <string name="fling_longpress_summary">Erhöht oder verringert die Zeit bis eine Aktion beim Gedrückthalten ausgeführt wird</string>
   <!-- Pulse navigation bar music visualizer -->
-  <string name="pulse_help_policy_notice_title">About Pulse</string>
+  <string name="pulse_help_policy_notice_title">Über Pulse</string>
   <string name="pulse_help_policy_notice_summary">Pulse is a brilliant audio graphic equalizer on the navigation bar when music plays. Pulse does not work with some audio sources when listening on device speaker</string>
   <string name="pulse_settings">Pulse</string>
   <string name="pulse_settings_summary">Navigation bar audio graphic equalizer</string>
@@ -346,9 +346,9 @@
   <string name="fling_show_pulse_summary">Audio graphic equalizer on the navigation bar</string>
   <string name="pulse_render_mode_title">Render mode</string>
   <string name="pulse_render_mode_fading_bars">Fading blocks</string>
-  <string name="pulse_render_mode_solid_lines">Solid lines</string>
-  <string name="fling_pulse_color">Pulse color</string>
-  <string name="eos_fling_lavalamp_title">Turn on Lava Lamp</string>
+  <string name="pulse_render_mode_solid_lines">Durchgezogene Linien</string>
+  <string name="fling_pulse_color">Farbe</string>
+  <string name="eos_fling_lavalamp_title">Lava-Lampe einschalten</string>
   <string name="eos_fling_lavalamp_summary">Pulse animates a smooth lava lamp style color blend</string>
   <string name="pulse_advanced_category">Erweitert</string>
   <string name="pulse_legacy_mode_advanced_category">Fading blocks mode settings</string>
@@ -370,17 +370,17 @@
   <string name="portrait_title">Portrait height</string>
   <string name="land_vert_title">Landscape width</string>
   <string name="land_hor_title">Landscape height</string>
-  <string name="positive_done">Done</string>
+  <string name="positive_done">Fertig</string>
   <!-- SmartBar -->
-  <string name="smartbar_category">Smartbar</string>
-  <string name="smartbar_settings_title">Smartbar settings</string>
+  <string name="smartbar_category">SmartBar</string>
+  <string name="smartbar_settings_title">Smartbar Einstellungen</string>
   <string name="smartbar_editor_title">Toggle button editor</string>
   <string name="smartbar_editor_summary">Medium press and drag to change position. Long press to show edit menu. Button position may be changed while menu is showing.</string>
   <string name="smartbar_context_menu_position_title">Context buttons layout position</string>
   <string name="smartbar_context_menu_position_summary">Set the position of contextual buttons such as menu and ime selector</string>
-  <string name="smartbar_right">Right</string>
-  <string name="smartbar_left">Left</string>
-  <string name="smartbar_button_animation_title">Button touch animation</string>
+  <string name="smartbar_right">Rechts</string>
+  <string name="smartbar_left">Links</string>
+  <string name="smartbar_button_animation_title">Tasten-Animation</string>
   <string name="smartbar_button_animation_summary">Set the animation style of the primary buttons when they are pressed</string>
   <string name="smartbar_button_animation_ripple">Ripple</string>
   <string name="smartbar_button_animation_spring">Spring</string>
@@ -441,10 +441,10 @@
   <string name="qs_brightness_slider_title">Helligkeitsregler</string>
   <string name="qs_brightness_slider_summary">Helligkeitsregler in den Schnelleinstellungen anzeigen</string>
   <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">Brightness icon</string>
-  <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
+  <string name="brightness_icon_title">Helligkeitssymbol</string>
+  <string name="brightness_icon_summary">Zeigt ein Symbol für die Helligkeit auf der linken Seite des Helligkeitsreglers, um die automatische Helligkeit anzupassen</string>
   <!-- Quick settings tiles size -->
-  <string name="sysui_qqs_count_title">Small QS tiles count</string>
+  <string name="sysui_qqs_count_title">Kleine QS-Kacheln</string>
   <!-- QS Rows & Collumns -->
   <string name="qs_rows_portrait_title">Rows (portrait)</string>
   <string name="qs_rows_landscape_title">Rows (landscape)</string>
@@ -459,18 +459,18 @@
   <string name="disable_immersive_message_title">Disable Immersive Mode Messages</string>
   <string name="disable_immersive_message_summary">This will hide all Immersive Mode Messages</string>
   <!-- Animation Settings -->
-  <string name="animation_settings_title">Animations</string>
+  <string name="animation_settings_title">Animationen</string>
   <string name="system_animation_tab">System</string>
   <string name="toast_animation_tab">Toast</string>
-  <string name="listview_animation_tab">Listview</string>
-  <string name="power_menu_animation_tab">Power menu</string>
-  <string name="qs_animation_tab">Quick Settings</string>
+  <string name="listview_animation_tab">Listenansicht</string>
+  <string name="power_menu_animation_tab">Ausschaltmenü</string>
+  <string name="qs_animation_tab">Schnelleinstellungen</string>
   <!-- Disable animations -->
-  <string name="disable_animations">Disable animations</string>
-  <string name="disable_animations_summary">Disables transition animations such as when launching an app</string>
+  <string name="disable_animations">Animationen deaktivieren</string>
+  <string name="disable_animations_summary">Deaktiviert die Übergangsanimationen z. B. beim Starten einer app</string>
   <!-- AOKP custom system animations -->
-  <string name="animation_title">Animations</string>
-  <string name="system_animation_title">System animations</string>
+  <string name="animation_title">Animationen</string>
+  <string name="system_animation_title">Systemanimationen</string>
   <string name="activity_open_title">Activity open animation</string>
   <string name="activity_close_title">Activity close animation</string>
   <string name="task_open_title">Task open animation</string>
