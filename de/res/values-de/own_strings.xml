@@ -52,7 +52,7 @@
   <string name="color_picker_help_ab_menu_reset_title">Zurücksetzen</string>
   <string name="color_picker_help_ab_menu_reset_summary">Setzt die neue Farbe zur Android- oder OwnROM-Voreinstellung zurück, ohne diese anzuwenden.</string>
   <string name="color_picker_help_ab_menu_hex_title">Hex-Wert:</string>
-  <string name="color_picker_help_ab_menu_hex_summary">Shows the hex input field.\nHex values have to be in hex color format:\n\'#aarrggbb\', (\'alpha\' (transparency), \'red\', \'green\' and \'blue\').\nThe back button closes the hex input field without setting the hex value.\nThe apply button sets the hex value as new color without applying the new color.</string>
+  <string name="color_picker_help_ab_menu_hex_summary">Zeigt das hex-Eingabefeld.\nHex-Werte müssen dem hex-Farbformat entsprechen:\n\'#aarrggbb\', (\'alpha\' (Transparenz), \'Rot\', \'Grün\' und \'Blau\').\nDer Zurückbutton schließt das hex-Eingabefeld, ohne den Wert zu übernehmen.\nDer Anwendebutton setzt den hex-Wert als die neue Farbe, ohne sie zu speichern.</string>
   <string name="color_picker_help_ab_menu_favorites_title">Ein-/Ausblenden der Favoriten:</string>
   <string name="color_picker_help_ab_menu_favorites_summary">Ein-/Ausblenden der Favoriten.\nDas Ausblenden der Favoriten setzt die bevorzugten Farben nicht zurück.</string>
   <string name="color_picker_help_ab_menu_help_title">Hilfe:</string>
@@ -256,7 +256,7 @@
   <string name="backlight_summary_enabled_with_timeout">Aktiviert für <xliff:g id="timeout"> %s </xliff:g></string>
   <string name="backlight_summary_enabled">Eingeschaltet</string>
   <!-- Navigation Bar -->
-  <string name="navbar_interface_title">Interface</string>
+  <string name="navbar_interface_title">Benutzeroberfläche</string>
   <string name="navbar_size">Leistengröße</string>
   <string name="navbar_mode">Navigationsmodus</string>
   <string name="navbar_visibility">Navigationsleiste aktivieren</string>
@@ -288,7 +288,7 @@
   <string name="fling_interface">Fling</string>
   <string name="fling_enable_title">Fling aktivieren</string>
   <string name="fling_back_home_policy">Back and Home are required to be set at all times. To change a Back or Home assignment, set the desired assignment first</string>
-  <string name="fling_split_bar_policy">When only a right or left action is assigned, the action applies to the full bar</string>
+  <string name="fling_split_bar_policy">Wenn nur eine Aktion für rechts oder links gewählt ist, gilt diese für die gesamte Leiste</string>
   <string name="fling_def_summary">Keine Aktion zugewiesen</string>
   <string name="fling_swipe_actions">Wischgesten</string>
   <string name="fling_tap_actions">Tippgesten</string>
@@ -306,15 +306,15 @@
   <string name="fling_long_left_press">Lange Gedrückthalten (linke Seite)</string>
   <string name="long_swipe_portrait_title">Hochformat</string>
   <string name="long_swipe_landscape_title">Querformat</string>
-  <string name="portrait_right_swipe_title">Portrait right swipe</string>
-  <string name="portrait_left_swipe_title">Portrait left swipe</string>
-  <string name="landscape_right_swipe_title">Landscape right swipe</string>
-  <string name="landscape_left_swipe_title">Landscape left swipe</string>
-  <string name="vertical_up_swipe_title">Vertical up swipe</string>
-  <string name="vertical_down_swipe_title">Vertical down swipe</string>
-  <string name="up_swipe_title">Up swipe</string>
-  <string name="down_swipe_title">Down swipe</string>
-  <string name="long_swipe_reset">Reset</string>
+  <string name="portrait_right_swipe_title">Hochformat rechts wischen</string>
+  <string name="portrait_left_swipe_title">Hochformat links wischen</string>
+  <string name="landscape_right_swipe_title">Querformat rechts wischen</string>
+  <string name="landscape_left_swipe_title">Querformat links wischen</string>
+  <string name="vertical_up_swipe_title">Vertikal nach oben wischen</string>
+  <string name="vertical_down_swipe_title">Vertikal nach unten wischen</string>
+  <string name="up_swipe_title">Nach oben wischen</string>
+  <string name="down_swipe_title">Nach unten wischen</string>
+  <string name="long_swipe_reset">Zurücksetzen</string>
   <string name="fling_advanced">Erweitert</string>
   <string name="fling_long_swipe_title">Long swipe thresholds</string>
   <string name="fling_long_swipe_summary">Fine tune long swipe thresholds based on a percentage of Fling interface width or height</string>
