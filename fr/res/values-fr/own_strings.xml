@@ -91,16 +91,16 @@
   <string name="status_bar_clock_position_left">Gauche</string>
   <string name="status_bar_clock_position_center">Centre</string>
   <string name="status_bar_am_pm_title">Style AM/PM</string>
-  <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
+  <string name="status_bar_am_pm_info">Le Format 24h est activé</string>
   <string name="status_bar_am_pm_normal">Normal</string>
-  <string name="status_bar_am_pm_small">Small</string>
-  <string name="status_bar_am_pm_hidden">Hidden</string>
+  <string name="status_bar_am_pm_small">Petit</string>
+  <string name="status_bar_am_pm_hidden">Caché</string>
   <!-- Status bar - Battery -->
-  <string name="status_bar_battery_category">Battery icon</string>
+  <string name="status_bar_battery_category">Icône de la batterie</string>
   <string name="status_bar_battery_style_title">Battery status style</string>
   <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
   <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
-  <string name="status_bar_battery_style_circle">Circle</string>
+  <string name="status_bar_battery_style_circle">Cercle</string>
   <string name="status_bar_battery_style_text">Text</string>
   <string name="status_bar_battery_style_hidden">Hidden</string>
   <!-- Status bar - Battery custom charging symbol -->
