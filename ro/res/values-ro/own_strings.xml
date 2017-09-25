@@ -18,10 +18,10 @@
   <!-- General Strings -->
   <string name="general">General</string>
   <string name="default_string">Implicit</string>
-  <string name="reset">Reset</string>
+  <string name="reset">Resetare</string>
   <!-- Color picker -->
-  <string name="color_picker_fragment_title">Color Picker</string>
-  <string name="apply_color_title">Apply color</string>
+  <string name="color_picker_fragment_title">Selector de culoare</string>
+  <string name="apply_color_title">Aplica culoarea</string>
   <string name="press_color_to_apply">Press on color below to apply</string>
   <string name="edit_hex_title">HEX value</string>
   <string name="reset_android_title">Android default</string>
