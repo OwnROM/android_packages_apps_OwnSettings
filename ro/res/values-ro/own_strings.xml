@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General Strings -->
   <string name="general">General</string>
-  <string name="default_string">Default</string>
+  <string name="default_string">Implicit</string>
   <string name="reset">Reset</string>
   <!-- Color picker -->
   <string name="color_picker_fragment_title">Color Picker</string>
