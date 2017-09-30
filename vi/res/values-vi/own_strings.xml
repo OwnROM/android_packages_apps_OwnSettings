@@ -307,10 +307,10 @@
   <string name="long_swipe_portrait_title">Màn hình dọc</string>
   <string name="long_swipe_landscape_title">Màn hình ngang</string>
   <string name="portrait_right_swipe_title">Vuốt bên phải ở chiều dọc</string>
-  <string name="portrait_left_swipe_title">Portrait left swipe</string>
-  <string name="landscape_right_swipe_title">Landscape right swipe</string>
-  <string name="landscape_left_swipe_title">Landscape left swipe</string>
-  <string name="vertical_up_swipe_title">Vertical up swipe</string>
+  <string name="portrait_left_swipe_title">Vuốt bên trái ở chiều dọc</string>
+  <string name="landscape_right_swipe_title">Vuốt bên phải ở chiều ngang</string>
+  <string name="landscape_left_swipe_title">Vuốt bên trái ở chiều ngang</string>
+  <string name="vertical_up_swipe_title">Vuốt dọc lên</string>
   <string name="vertical_down_swipe_title">Vuốt dọc xuống</string>
   <string name="up_swipe_title">Vuốt lên</string>
   <string name="down_swipe_title">Vuốt xuống</string>
@@ -481,16 +481,16 @@
   <string name="wallpaper_open_title">Hoạt ảnh mở hình nền</string>
   <string name="wallpaper_close_title">Hoạt ảnh đóng hình nền</string>
   <string name="wallpaper_intra_open_title">Hoạt ảnh mở giữa hình nền</string>
-  <string name="wallpaper_intra_close_title">Wallpaper intra close animation</string>
-  <string name="animation_duration_title">Animation duration</string>
-  <string name="title_animation_no_override">Prevent app overrides</string>
-  <string name="summary_animation_no_override">Prevent apps from overriding transitions</string>
-  <string name="animation_duration_default">Default</string>
+  <string name="wallpaper_intra_close_title">Hoạt ảnh đóng hình nền bên trong</string>
+  <string name="animation_duration_title">Thời gian hoạt ảnh</string>
+  <string name="title_animation_no_override">Ngăn chặn ứng dụng ghi đè</string>
+  <string name="summary_animation_no_override">Ngăn chặn ứng dụng ghi đè các hiệu ứng chuyển động</string>
+  <string name="animation_duration_default">Mặc định</string>
   <!-- Toast Animation -->
-  <string name="toast_animation_title">Toast animation</string>
-  <string name="toast_none_animation">None</string>
-  <string name="toast_default_animation">Default</string>
-  <string name="toast_fade_animation">Fade</string>
+  <string name="toast_animation_title">Hoạt ảnh thông báo nhanh</string>
+  <string name="toast_none_animation">Không</string>
+  <string name="toast_default_animation">Mặc định</string>
+  <string name="toast_fade_animation">Mờ dần</string>
   <string name="toast_SlideRight_animation">Slide right</string>
   <string name="toast_SlideLeft_animation">Slide left</string>
   <string name="toast_Xylon_animation">Xylon</string>
@@ -638,14 +638,14 @@
   <string name="own_updater_title">Updater</string>
   <string name="own_updater_summary">Update your ROM, G-Apps and other stuf</string>
   <string name="ownrom_maintainers">Maintainers</string>
-  <string name="ownrom_donation_link">Donate</string>
-  <string name="ownrom_donation_link_summary">Help us make OwnROM even better by donating trough PayPall</string>
+  <string name="ownrom_donation_link">Ủng hộ</string>
+  <string name="ownrom_donation_link_summary">Giúp chúng tôi làm cho OwnROM thậm chí tốt hơn bằng cách ủng hộ qua PayPall</string>
   <!-- Changelog -->
-  <string name="changelog_ownrom_title">Changelog</string>
-  <string name="changelog_ownrom_error">Unable to load changelog</string>
+  <string name="changelog_ownrom_title">Nhật kí thay đổi</string>
+  <string name="changelog_ownrom_error">Không thể tải nhật ký thay đổi</string>
   <!-- Share OwnROM -->
-  <string name="share_ownrom_title">Share OwnROM</string>
-  <string name="share_ownrom_summary">Let others know about OwnROM</string>
+  <string name="share_ownrom_title">Chia sẻ OwnROM</string>
+  <string name="share_ownrom_summary">Cho những người khác biết về OwnROM</string>
   <string name="share_message">Check out what #OwnROM is all about @ Google+: https://plus.google.com/communities/108869588356214314591</string>
   <string name="share_chooser_title">Share OwnROM</string>
   <!-- OTA OwnROM -->
