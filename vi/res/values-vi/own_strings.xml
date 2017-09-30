@@ -269,7 +269,7 @@
   <string name="smartbar_interface">Thanh thông minh</string>
   <string name="icon_pack_picker_dialog_title">Gói biểu tượng</string>
   <string name="invalid_icon_from_uri">Không thể tải hình ảnh từ cung cấp nội dung</string>
-  <string name="picker_activities">Activities</string>
+  <string name="picker_activities">Hoạt động</string>
   <string name="select_custom_app_title">Chọn ứng dụng tùy chỉnh</string>
   <string name="select_custom_activity_title">Select custom activity</string>
   <string name="profile_applist_title">Ứng dụng</string>
@@ -491,51 +491,51 @@
   <string name="toast_none_animation">Không</string>
   <string name="toast_default_animation">Mặc định</string>
   <string name="toast_fade_animation">Mờ dần</string>
-  <string name="toast_SlideRight_animation">Slide right</string>
-  <string name="toast_SlideLeft_animation">Slide left</string>
+  <string name="toast_SlideRight_animation">Trượt phải</string>
+  <string name="toast_SlideLeft_animation">Trượt trái</string>
   <string name="toast_Xylon_animation">Xylon</string>
   <string name="toast_Toko_animation">Toko</string>
   <string name="toast_Tn_animation">Tn</string>
   <string name="toast_Honami_animation">Honami</string>
-  <string name="toast_FastFade_animation">Fast fade</string>
-  <string name="toast_GrowFade_animation">Grow fade</string>
-  <string name="toast_GrowFadeCenter_animation">Grow fade center</string>
-  <string name="toast_GrowFadeBottom_animation">Grow fade bottom</string>
-  <string name="toast_Translucent_animation">Translucent</string>
-  <string name="toast_SlideLeftRight_animation">Slide left to right</string>
-  <string name="toast_SlideRightLeft_animation">Slide right to left</string>
+  <string name="toast_FastFade_animation">Mờ nhanh</string>
+  <string name="toast_GrowFade_animation">Mờ dần</string>
+  <string name="toast_GrowFadeCenter_animation">Mờ dần ở giữa</string>
+  <string name="toast_GrowFadeBottom_animation">Mờ dần phía dưới</string>
+  <string name="toast_Translucent_animation">Mờ</string>
+  <string name="toast_SlideLeftRight_animation">Trượt trái sang phải</string>
+  <string name="toast_SlideRightLeft_animation">Trượt phải sang trái</string>
   <!-- Toast Icons -->
-  <string name="toast_icon_title">Toast icon</string>
-  <string name="toast_icon_summary">Display the app icon corresponding with the toast</string>
+  <string name="toast_icon_title">Biểu tượng thông báo nhanh</string>
+  <string name="toast_icon_summary">Hiển thị các biểu tượng ứng dụng tương ứng với thông báo nhanh</string>
   <!-- ListView animation -->
-  <string name="listview_animation_title">ListView animation</string>
-  <string name="listview_off">Default</string>
-  <string name="listview_wave_left">Wave (left)</string>
-  <string name="listview_wave_right">Wave (right)</string>
-  <string name="listview_alpha">Alpha</string>
-  <string name="listview_scale">Scale</string>
-  <string name="listview_stack_top">Stack (top)</string>
-  <string name="listview_stack_bottom">Stack (bottom)</string>
-  <string name="listview_unfold">Unfold</string>
-  <string name="listview_fold">Fold</string>
-  <string name="listview_translate_left">Translate (left)</string>
-  <string name="listview_translate_right">Translate (right)</string>
+  <string name="listview_animation_title">Hoạt ảnh ListView</string>
+  <string name="listview_off">Mặc định</string>
+  <string name="listview_wave_left">Sóng (bên trái)</string>
+  <string name="listview_wave_right">Sóng (bên phải)</string>
+  <string name="listview_alpha">Trong suốt</string>
+  <string name="listview_scale">Co giãn</string>
+  <string name="listview_stack_top">Ngăn xếp (trên cùng)</string>
+  <string name="listview_stack_bottom">Ngăn xếp (dưới cùng)</string>
+  <string name="listview_unfold">Mở</string>
+  <string name="listview_fold">Gấp</string>
+  <string name="listview_translate_left">Dịch chuyển (trái)</string>
+  <string name="listview_translate_right">Dịch chuyển (phải)</string>
   <!-- ListView interpolator -->
-  <string name="listview_interpolator_title">Interpolator</string>
-  <string name="listview_accelerate_interpolator">Accelerate</string>
-  <string name="listview_decelerate_interpolator">Decelerate</string>
-  <string name="listview_accelerate_decelerate_interpolator">Accelerate and decelerate</string>
-  <string name="listview_anticipate_interpolator">Anticipate</string>
-  <string name="listview_overshoot_interpolator">Overshoot</string>
-  <string name="listview_anticipate_overshoot_interpolator">Anticipate and overshoot</string>
-  <string name="listview_bounce_interpolator">Bounce</string>
+  <string name="listview_interpolator_title">Tiên đoán</string>
+  <string name="listview_accelerate_interpolator">Tăng tốc</string>
+  <string name="listview_decelerate_interpolator">Giảm tốc</string>
+  <string name="listview_accelerate_decelerate_interpolator">Tăng tốc và giảm tốc</string>
+  <string name="listview_anticipate_interpolator">Dự đoán</string>
+  <string name="listview_overshoot_interpolator">Vượt quá</string>
+  <string name="listview_anticipate_overshoot_interpolator">Dự đoán và vượt quá</string>
+  <string name="listview_bounce_interpolator">Nảy lên</string>
   <!-- Option to enable/disable scrolling cache -->
-  <string name="pref_scrollingcache_title">Scrolling cache</string>
-  <string name="pref_scrollingcache_summary">Scrolling cache may improve scrolling performance at the cost of memory</string>
-  <string name="pref_scrollingcache_force_enable">Force enable</string>
-  <string name="pref_scrollingcache_default_enable">Default enable</string>
-  <string name="pref_scrollingcache_default_disable">Default disable</string>
-  <string name="pref_scrollingcache_force_disable">Force disable</string>
+  <string name="pref_scrollingcache_title">Bộ đệm cuộn</string>
+  <string name="pref_scrollingcache_summary">Bộ nhớ cache cuộn có thể cải thiện hiệu suất cuộn với hao phí của bộ nhớ</string>
+  <string name="pref_scrollingcache_force_enable">Buộc bật</string>
+  <string name="pref_scrollingcache_default_enable">Mặc định bật</string>
+  <string name="pref_scrollingcache_default_disable">Mặc định tắt</string>
+  <string name="pref_scrollingcache_force_disable">Buộc tắt</string>
   <!-- Power menu Animations  -->
   <string name="power_menu_animation_title">Hoạt ảnh menu nguồn</string>
   <string name="power_menu_animation_summary">Thay đổi hoạt ảnh Mở/Tắt trình đơn nguồn</string>
@@ -629,15 +629,15 @@
   <string name="dashboard_columns_title">Số cột bảng điều khiển</string>
   <string name="dashboard_columns_summary">Thay đổi số lượng các cột hiển thị trong bảng điều khiển</string>
   <string name="dashboard_columns_dialog_title">Chọn các cột bảng điều khiển</string>
-  <string name="dashboard_columns_default">One (two landscape)</string>
-  <string name="dashboard_columns_two">Two (three landscape)</string>
-  <string name="dashboard_columns_three">Three (four landscape)</string>
+  <string name="dashboard_columns_default">Một (hai ngang màn hình)</string>
+  <string name="dashboard_columns_two">Hai (ba ngang màn hình)</string>
+  <string name="dashboard_columns_three">Ba (bốn ngang màn hình)</string>
   <!-- OwnROM Center -->
-  <string name="owncenter">OwnROM Center</string>
+  <string name="owncenter">Trung tâm OwnROM</string>
   <string name="owncenter_ota_tab">OTA</string>
   <string name="own_updater_title">Updater</string>
   <string name="own_updater_summary">Update your ROM, G-Apps and other stuf</string>
-  <string name="ownrom_maintainers">Maintainers</string>
+  <string name="ownrom_maintainers">Người bảo trì</string>
   <string name="ownrom_donation_link">Ủng hộ</string>
   <string name="ownrom_donation_link_summary">Giúp chúng tôi làm cho OwnROM thậm chí tốt hơn bằng cách ủng hộ qua PayPall</string>
   <!-- Changelog -->
@@ -646,11 +646,11 @@
   <!-- Share OwnROM -->
   <string name="share_ownrom_title">Chia sẻ OwnROM</string>
   <string name="share_ownrom_summary">Cho những người khác biết về OwnROM</string>
-  <string name="share_message">Check out what #OwnROM is all about @ Google+: https://plus.google.com/communities/108869588356214314591</string>
-  <string name="share_chooser_title">Share OwnROM</string>
+  <string name="share_message">Kiểm tra tất cả những gì về #OwnROM tại @ Google +: https://plus.google.com/communities/108869588356214314591</string>
+  <string name="share_chooser_title">Chia sẻ OwnROM</string>
   <!-- OTA OwnROM -->
   <string name="ownrom_source_title">Github</string>
-  <string name="ownrom_source_summary">Visit our source git team</string>
+  <string name="ownrom_source_summary">Truy cập vào mã nguồn git nhóm chúng tôi</string>
   <string name="ownrom_google_plus_title">Google +</string>
   <string name="ownrom_google_plus_summary">Truy cập vào trang G + cho hỗ trợ và tin tức</string>
   <string name="ownrom_website_title">OwnDroid Website</string>
