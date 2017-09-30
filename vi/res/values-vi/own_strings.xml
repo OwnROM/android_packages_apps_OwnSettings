@@ -271,7 +271,7 @@
   <string name="invalid_icon_from_uri">Không thể tải hình ảnh từ cung cấp nội dung</string>
   <string name="picker_activities">Hoạt động</string>
   <string name="select_custom_app_title">Chọn ứng dụng tùy chỉnh</string>
-  <string name="select_custom_activity_title">Select custom activity</string>
+  <string name="select_custom_activity_title">Chọn hoạt động tùy chỉnh</string>
   <string name="profile_applist_title">Ứng dụng</string>
   <string name="default_string">Mặc định</string>
   <string name="reset">Đặt lại</string>
@@ -635,8 +635,8 @@
   <!-- OwnROM Center -->
   <string name="owncenter">Trung tâm OwnROM</string>
   <string name="owncenter_ota_tab">OTA</string>
-  <string name="own_updater_title">Updater</string>
-  <string name="own_updater_summary">Update your ROM, G-Apps and other stuf</string>
+  <string name="own_updater_title">Trình cập nhật</string>
+  <string name="own_updater_summary">Cập Nhật ROM của bạn, ứng dụng G và stuf khác</string>
   <string name="ownrom_maintainers">Người bảo trì</string>
   <string name="ownrom_donation_link">Ủng hộ</string>
   <string name="ownrom_donation_link_summary">Giúp chúng tôi làm cho OwnROM thậm chí tốt hơn bằng cách ủng hộ qua PayPall</string>
