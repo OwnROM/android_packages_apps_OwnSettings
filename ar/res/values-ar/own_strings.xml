@@ -16,22 +16,22 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General Strings -->
-  <string name="general">General</string>
-  <string name="default_string">Default</string>
-  <string name="reset">Reset</string>
+  <string name="general">عام</string>
+  <string name="default_string">الوضع الأصلي</string>
+  <string name="reset">إعادة ضبط</string>
   <!-- Color picker -->
-  <string name="color_picker_fragment_title">Color Picker</string>
-  <string name="apply_color_title">Apply color</string>
-  <string name="press_color_to_apply">Press on color below to apply</string>
-  <string name="edit_hex_title">HEX value</string>
-  <string name="reset_android_title">Android default</string>
-  <string name="palette_darkkat_title">OwnROM</string>
-  <string name="palette_material_title">Material</string>
+  <string name="color_picker_fragment_title">اختيار الالوان</string>
+  <string name="apply_color_title">تطبيق اللون</string>
+  <string name="press_color_to_apply">اضغط على اللون أدناه لتطبيق</string>
+  <string name="edit_hex_title">القيمة السادس عشرية</string>
+  <string name="reset_android_title">افتراضي Android</string>
+  <string name="palette_darkkat_title">اونروم</string>
+  <string name="palette_material_title">مادة</string>
   <string name="palette_rgb_title">RGB</string>
-  <string name="reset_color_title">Reset</string>
-  <string name="reset_darkkat_title">Customized palette</string>
-  <string name="reset_theme_default_title">Theme default</string>
-  <string name="favorites_title">Favorites</string>
+  <string name="reset_color_title">اعادة الضبط</string>
+  <string name="reset_darkkat_title">لوح مخصص</string>
+  <string name="reset_theme_default_title">الثيم الاصلي</string>
+  <string name="favorites_title">المفضلة</string>
   <string name="hide_favorites_title">Hide favorites</string>
   <string name="show_favorites_title">Show favorites</string>
   <string name="show_help_title">Show help</string>
