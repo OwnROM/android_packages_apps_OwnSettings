@@ -234,9 +234,9 @@
   <string name="volbtn_cursor_control_on">Volume omhoog/omlaag verplaatst de cursor naar links/rechts</string>
   <string name="volbtn_cursor_control_on_reverse">Volume omhoog/omlaag verplaatst de cursor naar rechts/links</string>
   <string name="power_end_call_title">Gesprek beëindigen</string>
-  <string name="power_end_call_summary">Pressing the power button will end the current call</string>
-  <string name="swap_volume_buttons_title">Reorient</string>
-  <string name="swap_volume_buttons_summary">Swap volume buttons when the screen is rotated</string>
+  <string name="power_end_call_summary">Huidige gesprek beëindigen door op de aan/uit-knop te drukken</string>
+  <string name="swap_volume_buttons_title">Heroriënteren</string>
+  <string name="swap_volume_buttons_summary">Volumeknoppen omdraaien indien het scherm gedraaid is</string>
   <string name="button_wake_title">Wake up device</string>
   <string name="button_wake_title_summary">Wake up device by pressing one of the volume buttons</string>
   <string name="home_answer_call_title">Answer call</string>
