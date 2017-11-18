@@ -99,26 +99,26 @@
   <string name="status_bar_battery_category">Batterijpictogram</string>
   <string name="status_bar_battery_style_title">Stijl Batterijstatus</string>
   <string name="status_bar_battery_style_icon_portrait">Pictogram Staand</string>
-  <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
+  <string name="status_bar_battery_style_icon_landscape">Pictogram Liggend</string>
   <string name="status_bar_battery_style_circle">Cirkel</string>
-  <string name="status_bar_battery_style_text">Text</string>
-  <string name="status_bar_battery_style_hidden">Hidden</string>
+  <string name="status_bar_battery_style_text">Tekst</string>
+  <string name="status_bar_battery_style_hidden">Verborgen</string>
   <!-- Status bar - Battery custom charging symbol -->
-  <string name="text_charging_symbol_title">Custom charging symbol for text style</string>
-  <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
-  <string name="text_charging_symbol_default">Disabled</string>
-  <string name="text_charging_symbol_flash">Flash</string>
+  <string name="text_charging_symbol_title">Aangepast Laadsymbool Voor Tekststij</string>
+  <string name="text_charging_symbol_dialog">Aangepast laadsymbool nabij het batterijpercentage</string>
+  <string name="text_charging_symbol_default">Uitgeschakeld</string>
+  <string name="text_charging_symbol_flash">Bliksem</string>
   <string name="text_charging_symbol_tilde">Tilde</string>
   <!-- Status bar - Battery percentage -->
-  <string name="status_bar_battery_percentage_title">Battery percentage</string>
-  <string name="status_bar_battery_percentage_default">Hidden</string>
-  <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
-  <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+  <string name="status_bar_battery_percentage_title">Batterij percentage</string>
+  <string name="status_bar_battery_percentage_default">Verborgen</string>
+  <string name="status_bar_battery_percentage_text_inside">In het pictogram</string>
+  <string name="status_bar_battery_percentage_text_next">Naast het pictogram</string>
   <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Status bar icons</string>
-  <string name="status_bar_icons_summary">Control which status bar icons are shown</string>
+  <string name="status_bar_icons_title">Statusbalk iconen</string>
+  <string name="status_bar_icons_summary">Bepaal welke statusbalkpictogrammen worden getoond</string>
   <!-- Status bar - double tap to sleep -->
-  <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
+  <string name="status_bar_double_tap_to_sleep_title">Dubbeltik om te slapen</string>
   <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar to turn off the display</string>
   <string name="statusbar_settings_title">StatusBar</string>
   <!-- Bluetooth status -->
