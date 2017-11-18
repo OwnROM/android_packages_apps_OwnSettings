@@ -241,8 +241,8 @@
   <string name="button_wake_title_summary">Apparaat ontwaken door op één van de volumeknoppen te drukken</string>
   <string name="home_answer_call_title">Oproep beantwoorden</string>
   <string name="home_answer_call_summary">Indrukken van de thuisknop zal de huidige inkomende oproep beantwoorden</string>
-  <string name="kill_app_longpress_back">App afsluiten met terug knop</string>
-  <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back button</string>
+  <string name="kill_app_longpress_back">App afsluiten met terugknop</string>
+  <string name="kill_app_longpress_back_summary">Voorgrond-app afsluiten door lang op de terugknop te drukken</string>
   <!-- Key backlight -->
   <string name="button_backlight_title">Backlight</string>
   <string name="button_backlight_summary">Customize button backlight settings</string>
