@@ -226,8 +226,8 @@
   <string name="camera_sleep_on_release_title">Scherm peek</string>
   <string name="camera_sleep_on_release_summary">Half indrukken zal het scherm aanhouden zolang de knop ingedrukt blijft</string>
   <string name="camera_launch_title">Camera openen</string>
-  <string name="camera_launch_summary">A longpress and release will launch camera</string>
-  <string name="volbtn_music_controls_title">Playback control</string>
+  <string name="camera_launch_summary">Lang indrukken en loslaten zal de camera openen</string>
+  <string name="volbtn_music_controls_title">Afspeelbediening</string>
   <string name="volbtn_music_controls_summary">When the screen is off, long pressing the volume keys will seek music tracks</string>
   <string name="volbtn_cursor_control_title">Keyboard cursor control</string>
   <string name="volbtn_cursor_control_off">Disabled</string>
