@@ -119,18 +119,18 @@
   <string name="status_bar_icons_summary">Bepaal welke statusbalkpictogrammen worden getoond</string>
   <!-- Status bar - double tap to sleep -->
   <string name="status_bar_double_tap_to_sleep_title">Dubbeltik om te slapen</string>
-  <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar to turn off the display</string>
-  <string name="statusbar_settings_title">StatusBar</string>
+  <string name="status_bar_double_tap_to_sleep_summary">Dubbeltik op de statusbalk om het display uit te schakelen</string>
+  <string name="statusbar_settings_title">StatusBalk</string>
   <!-- Bluetooth status -->
-  <string name="bluetooth_battery_title">Show Bluetooth battery status</string>
-  <string name="bluetooth_battery_summary">Show battery status for the currently connected bluetooth device, if availible.</string>
+  <string name="bluetooth_battery_title">Toon Bluetooth accustatus</string>
+  <string name="bluetooth_battery_summary">Toon accustatus van het huidig aangesloten bluetooth apparaat, indien beschikbaar.</string>
   <!-- Network traffic -->
-  <string name="network_traffic_title">Network traffic</string>
-  <string name="show_network_traffic_state">Status bar traffic monitor</string>
-  <string name="show_network_traffic_unit">Display unit</string>
+  <string name="network_traffic_title">Netwerkverkeer</string>
+  <string name="show_network_traffic_state">Statusbalk datamonitor</string>
+  <string name="show_network_traffic_unit">Weergave eenheid</string>
   <string name="show_network_traffic_frequency">Update interval</string>
-  <string name="show_network_traffic_disable">Disabled</string>
-  <string name="show_network_traffic_up">Outgoing</string>
+  <string name="show_network_traffic_disable">Uitgeschakeld</string>
+  <string name="show_network_traffic_up">Uitgaand</string>
   <string name="show_network_traffic_down">Incoming</string>
   <string name="show_network_traffic_all">Outgoing and incoming</string>
   <string name="show_network_traffic_bit">Bits per second</string>
