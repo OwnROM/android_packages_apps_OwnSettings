@@ -39,9 +39,9 @@
   <string name="empty_title">清空</string>
   <!-- Color picker help screen -->
   <string name="color_picker_help_screen_title">颜色选取器帮助</string>
-  <string name="color_picker_help_ab_title">Action bar:</string>
-  <string name="color_picker_help_ab_back_title">Back button:</string>
-  <string name="color_picker_help_ab_back_summary">Close the color picker without applying the new color, (cancel).\nThis has the same effect as clicking the back button on the navigation bar.</string>
+  <string name="color_picker_help_ab_title">操作栏:</string>
+  <string name="color_picker_help_ab_back_title">返回键：</string>
+  <string name="color_picker_help_ab_back_summary">关闭拾色器而不应用新颜色 (取消). \n 此具有与单击导航栏上的 \"后退\" 按钮相同的效果。</string>
   <string name="color_picker_help_ab_name_title">Title:</string>
   <string name="color_picker_help_ab_name_summary">Only shows the title, no additional functions</string>
   <string name="color_picker_help_ab_hex_title">Hex value:</string>
