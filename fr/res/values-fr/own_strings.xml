@@ -104,8 +104,8 @@
   <string name="status_bar_battery_style_text">Texte</string>
   <string name="status_bar_battery_style_hidden">Caché</string>
   <!-- Status bar - Battery custom charging symbol -->
-  <string name="text_charging_symbol_title">Custom charging symbol for text style</string>
-  <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
+  <string name="text_charging_symbol_title">Loge de charge personnalisé pour le style de texte</string>
+  <string name="text_charging_symbol_dialog">Logo de charge personnalisé à côté du pourcentage de batterie</string>
   <string name="text_charging_symbol_default">Désactivé</string>
   <string name="text_charging_symbol_flash">Torche</string>
   <string name="text_charging_symbol_tilde">Tilde</string>
@@ -115,15 +115,15 @@
   <string name="status_bar_battery_percentage_text_inside">Dans l\'icône</string>
   <string name="status_bar_battery_percentage_text_next">À côté de l\'icône</string>
   <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Status bar icons</string>
-  <string name="status_bar_icons_summary">Control which status bar icons are shown</string>
+  <string name="status_bar_icons_title">Icônes de la barre d’état</string>
+  <string name="status_bar_icons_summary">Contrôle quelles icônes de la barre d’état sont affichées</string>
   <!-- Status bar - double tap to sleep -->
   <string name="status_bar_double_tap_to_sleep_title">Double appui pour mettre en veille</string>
-  <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar to turn off the display</string>
+  <string name="status_bar_double_tap_to_sleep_summary">Appui double sur la barre d\'état pour éteindre l\'écran</string>
   <string name="statusbar_settings_title">Barre d\'état</string>
   <!-- Bluetooth status -->
   <string name="bluetooth_battery_title">Afficher l’état de batterie Bluetooth</string>
-  <string name="bluetooth_battery_summary">Show battery status for the currently connected bluetooth device, if availible.</string>
+  <string name="bluetooth_battery_summary">Afficher l’état de la batterie pour le périphérique Bluetooth actuellement connecté, si disponible.</string>
   <!-- Network traffic -->
   <string name="network_traffic_title">Trafic du réseau</string>
   <string name="show_network_traffic_state">Indicateur de vitesse de réseau</string>
@@ -152,38 +152,38 @@
   <string name="battery_bar">Emplacement</string>
   <string name="battery_bar_no_navbar">Emplacement</string>
   <string name="battery_bar_location_hide">Masquer</string>
-  <string name="battery_bar_location_statusbar">Statusbar</string>
-  <string name="battery_bar_location_top_navbar">Top of navbar</string>
-  <string name="battery_bar_location_bottom_navbar">Bottom of navbar</string>
+  <string name="battery_bar_location_statusbar">Barre d\'état</string>
+  <string name="battery_bar_location_top_navbar">Haut de la barre de navigation</string>
+  <string name="battery_bar_location_bottom_navbar">Bas de la barre de navigation</string>
   <string name="battery_bar_color">Couleur de la barre de la batterie</string>
-  <string name="battery_bar_charging_color">Battery bar charging color</string>
-  <string name="battery_bar_battery_low_color">Battery bar low battery color</string>
-  <string name="battery_bar_cat">Battery bar style</string>
-  <string name="battery_bar_style_title">Battery bar alignment</string>
-  <string name="battery_bar_thickness_title">Battery bar thickness</string>
-  <string name="battery_bar_animate_title">Charging animation</string>
+  <string name="battery_bar_charging_color">Couleur lors de la charge</string>
+  <string name="battery_bar_battery_low_color">Couleur de batterie faible</string>
+  <string name="battery_bar_cat">Style de la barre de batterie</string>
+  <string name="battery_bar_style_title">Alignement de la barre de batterie</string>
+  <string name="battery_bar_thickness_title">Épaisseur de la barre de la batterie</string>
+  <string name="battery_bar_animate_title">Animation lors de la charge</string>
   <string name="battery_bar_style_regular">Standard</string>
-  <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
+  <string name="battery_bar_style_center_mirrored">Centrée et reflétée</string>
   <string name="battery_bar_style_reversed">Inversé</string>
-  <string name="battery_bar_use_charging_color">Custom charging color</string>
-  <string name="battery_bar_blend_color_title">Blend colors</string>
-  <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
-  <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
-  <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
-  <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
+  <string name="battery_bar_use_charging_color">Couleur de charge personnalisée</string>
+  <string name="battery_bar_blend_color_title">Mélange de couleurs</string>
+  <string name="battery_bar_blend_color_summary">Mélanger les couleurs pleines ou vides correspondant au pourcentage de batterie</string>
+  <string name="battery_bar_blend_color_reverse_title">Inversion de la direction de la couleur</string>
+  <string name="battery_bar_blend_color_reverse_summary_off">Plein &#8594; vide : rouge &#8592; vert &#8592; bleu &#8592; rouge</string>
+  <string name="battery_bar_blend_color_reverse_summary_on">Plein &#8594; vide: rouge &#8594; vert &#8594; bleu &#8594; rouge</string>
   <!-- Status Bar Ticker -->
-  <string name="ticker_screen_title">Ticker</string>
-  <string name="ticker_title">Status Bar Ticker</string>
-  <string name="ticker_screen_summary">Customize the ticker style</string>
-  <string name="ticker_summary">Enable the status bar ticker</string>
+  <string name="ticker_screen_title">\"Ticker\"</string>
+  <string name="ticker_title">Paramétrage de la barre d\'état</string>
+  <string name="ticker_screen_summary">Personnaliser le style de ticker dans la barre d\'état</string>
+  <string name="ticker_summary">Activer l\'ancien ticker dans la barre d\'état</string>
   <string name="ticker_restore_defaults_title">Réinitialiser par défaut</string>
   <string name="text_title">Texte</string>
   <string name="icon_title">Icône</string>
   <string name="colors_title">Couleurs</string>
-  <string name="values_restored_title">Values restored</string>
-  <string name="ticker_disabled">No ticker</string>
-  <string name="ticker_enabled">Notification ticker</string>
-  <string name="ticker_media_enabled">Notifications and music ticker</string>
+  <string name="values_restored_title">Valeurs restaurées</string>
+  <string name="ticker_disabled">Pas d\'aperçu</string>
+  <string name="ticker_enabled">Notifications dynamiques</string>
+  <string name="ticker_media_enabled">Aperçu pour les notifications et la musique</string>
   <!-- Data/Wifi activity arrows -->
   <string name="data_wifi_category_title">Icône de données/WiFi</string>
   <string name="data_wifi_activity_arrows_title">Show data/wifi activity</string>
