@@ -406,42 +406,42 @@
   <string name="smartbar_config_restore_error_toast">Erreur lors de la restauration du profil de Smartbar</string>
   <string name="smartbar_doubletap_sleep_title">Appui double pour mettre en veille</string>
   <string name="smartbar_doubletap_sleep_summary">Faites un appui double sur les zones vides de la barre de navigation pour éteindre l’écran</string>
-  <string name="one_handed_mode_title">One handed mode</string>
-  <string name="one_handed_mode_summary">Allows swiping on the navigation bar to enable one handed mode</string>
-  <string name="navbar_buttons_alpha_title">Button transparency</string>
+  <string name="one_handed_mode_title">Mode à une main</string>
+  <string name="one_handed_mode_summary">Autoriser les gestes de glissements sur la barre de navigation pour activer le mode d\'utilisation à une main</string>
+  <string name="navbar_buttons_alpha_title">Transparence des boutons</string>
   <!-- Power menu -->
-  <string name="power_menu_title">Power menu</string>
-  <string name="power_menu_reboot_title">Restart menu</string>
-  <string name="power_menu_screenshot_title">Screenshot</string>
-  <string name="power_menu_airplane_title">Airplane mode</string>
-  <string name="power_menu_users_title">User switcher</string>
-  <string name="power_menu_settings_title">Settings shortcut</string>
-  <string name="power_menu_lockdown_title">Device lockdown</string>
-  <string name="power_menu_sound_title">Sound panel</string>
-  <string name="volume_keys_control_ring_stream_title">Control ringtone volume</string>
-  <string name="volume_keys_control_ring_stream_summary_on">Volume keys control ringtone volume</string>
-  <string name="volume_keys_control_ring_stream_summary_off">Volume keys control media volume</string>
-  <string name="camera_double_tap_power_gesture_title">Press power button twice for camera</string>
+  <string name="power_menu_title">Menu d\'alimentation</string>
+  <string name="power_menu_reboot_title">Menu de redémarrage</string>
+  <string name="power_menu_screenshot_title">Capture d\'écran</string>
+  <string name="power_menu_airplane_title">Mode Avion</string>
+  <string name="power_menu_users_title">Changer d\'utilisateur</string>
+  <string name="power_menu_settings_title">Raccourci vers les paramètres</string>
+  <string name="power_menu_lockdown_title">Verrouillage de l\'appareil</string>
+  <string name="power_menu_sound_title">Son et vibreur</string>
+  <string name="volume_keys_control_ring_stream_title">Contrôler le volume de la sonnerie</string>
+  <string name="volume_keys_control_ring_stream_summary_on">Les boutons de volume contrôlent le volume de la sonnerie</string>
+  <string name="volume_keys_control_ring_stream_summary_off">Les touches du volume contrôlent le volume des médias</string>
+  <string name="camera_double_tap_power_gesture_title">Appuyer deux fois sur le bouton Marche/Arrêt pour lancer l\'appareil photo</string>
   <!-- Description of setting that controls gesture to open camera by double tapping the power button [CHAR LIMIT=NONE] -->
-  <string name="camera_double_tap_power_gesture_desc">Quickly open camera without unlocking your screen</string>
+  <string name="camera_double_tap_power_gesture_desc">Lancez rapidement la caméra sans déverrouiller l\'écran</string>
   <!-- Other Button Settings -->
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot type</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
-  <string name="screenshot_type_partial">Drag selection on the area you want to take as a screenshot</string>
+  <string name="screenshot_type_title">Type de capture d\'écran</string>
+  <string name="screenshot_type_fullscreen">Prendre des captures d’écran en plein écran</string>
+  <string name="screenshot_type_partial">Partiel : Sélectionner la zone à capturer</string>
   <!-- Screenshot delay -->
-  <string name="screenshot_options_category">Screenshot options</string>
-  <string name="screenshot_delay_title">Screenshot delay</string>
-  <string name="screenshot_delay_summary">Adjust the time for when a screenshot is captured</string>
+  <string name="screenshot_options_category">Options de capture d’écran</string>
+  <string name="screenshot_delay_title">Délai de capture d\'écran</string>
+  <string name="screenshot_delay_summary">Régler le délai avant la prise de capture d\'écran</string>
   <!-- Quick Settings -->
-  <string name="quick_settings_title">Quick Settings</string>
-  <string name="quick_pulldown_title">Quick Pulldown</string>
-  <string name="qs_general_tab">General</string>
+  <string name="quick_settings_title">Réglages Rapides</string>
+  <string name="quick_pulldown_title">Déroulement rapide</string>
+  <string name="qs_general_tab">Général</string>
   <!-- Quick Settings brightness slider -->
-  <string name="qs_brightness_slider_title">Brightness slider</string>
-  <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
+  <string name="qs_brightness_slider_title">Curseur de luminosité</string>
+  <string name="qs_brightness_slider_summary">Afficher un curseur de luminosité dans le volet des réglages rapides</string>
   <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">Brightness icon</string>
+  <string name="brightness_icon_title">Icône de luminosité</string>
   <string name="brightness_icon_summary">Afficher une icône de luminosité à gauche du curseur de luminosité permettant d\'ajuster automatiquement la luminosité</string>
   <!-- Quick settings tiles size -->
   <string name="sysui_qqs_count_title">Petits raccourcis rapides</string>
@@ -613,56 +613,56 @@
   <string name="omniswitch_start_settings_title">Réglages</string>
   <string name="omniswitch_start_settings_summary">Ouvrir les paramètres d\'OmniSwitch</string>
   <string name="omniswitch_first_time_title">Information</string>
-  <string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>
+  <string name="omniswitch_first_time_message">Assurez-vous que vous avez activé OmniSwitch. Vous pouvez le faire en utilisant les « Paramètres » ci-dessous</string>
   <string name="omniswitch_settings_title">OmniSwitch</string>
   <!-- Misc Settings -->
-  <string name="own_misc_settings">Misc Settings</string>
+  <string name="own_misc_settings">Paramètres divers</string>
   <!-- Selinux Switch -->
   <string name="selinux_category_title">Selinux</string>
-  <string name="selinux_switch_title">Selinux options</string>
-  <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects.Needs root to work, use at your own risk</string>
-  <string name="selinux_title">Selinux Mode</string>
-  <string name="selinux_permissive_title">Permissive</string>
-  <string name="selinux_enforcing_title">Enforcing</string>
+  <string name="selinux_switch_title">Options Selinux</string>
+  <string name="selinux_switch_summary">SELinux est un ensemble de modifications du noyau et d\'outils espace utilisateur. Le changement de mode peut provoquer des effets indésirables. Utiliser à vos risques et périls</string>
+  <string name="selinux_title">Mode Selinux</string>
+  <string name="selinux_permissive_title">Permissif</string>
+  <string name="selinux_enforcing_title">Imposer</string>
   <!-- Dashboard columns -->
-  <string name="dashboard_category_title">Dashboard</string>
-  <string name="dashboard_columns_title">Dashboard Columns</string>
-  <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard (Settings)</string>
-  <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
-  <string name="dashboard_columns_default">One (two landscape)</string>
-  <string name="dashboard_columns_two">Two (three landscape)</string>
-  <string name="dashboard_columns_three">Three (four landscape)</string>
+  <string name="dashboard_category_title">Tableau de bord</string>
+  <string name="dashboard_columns_title">Nombre de colonnes</string>
+  <string name="dashboard_columns_summary">Définir le nombre de colonnes du tableau de bord</string>
+  <string name="dashboard_columns_dialog_title">Nombre de colonnes</string>
+  <string name="dashboard_columns_default">Un (deux horizontal)</string>
+  <string name="dashboard_columns_two">Deux (trois horizontal)</string>
+  <string name="dashboard_columns_three">Trois (quatre horizontal)</string>
   <!-- OwnROM Center -->
-  <string name="owncenter">OwnROM Center</string>
+  <string name="owncenter">Centre Romperso</string>
   <string name="owncenter_ota_tab">OTA</string>
   <string name="own_updater_title">Updater</string>
-  <string name="own_updater_summary">Update your ROM, G-Apps and other stuf</string>
-  <string name="ownrom_maintainers">Maintainers</string>
-  <string name="ownrom_donation_link">Donate</string>
-  <string name="ownrom_donation_link_summary">Help us make OwnROM even better by donating trough PayPall</string>
+  <string name="own_updater_summary">Mettre à jour votre ROM, G-Apps et autres</string>
+  <string name="ownrom_maintainers">Maintenance</string>
+  <string name="ownrom_donation_link">Donation</string>
+  <string name="ownrom_donation_link_summary">Aidez nous à améliorer OwnROM en donant via PayPal</string>
   <!-- Changelog -->
-  <string name="changelog_ownrom_title">Changelog</string>
-  <string name="changelog_ownrom_error">Unable to load changelog</string>
+  <string name="changelog_ownrom_title">Journal des modifications</string>
+  <string name="changelog_ownrom_error">Impossible de charger le changelog</string>
   <!-- Share OwnROM -->
-  <string name="share_ownrom_title">Share OwnROM</string>
-  <string name="share_ownrom_summary">Let others know about OwnROM</string>
-  <string name="share_message">Check out what #OwnROM is all about @ Google+: https://plus.google.com/communities/108869588356214314591</string>
-  <string name="share_chooser_title">Share OwnROM</string>
+  <string name="share_ownrom_title">Partager OwnROM</string>
+  <string name="share_ownrom_summary">Répandez le mot à propos de OwnROM</string>
+  <string name="share_message">Renseignez vous sur OwnROM @ Google+: https://plus.google.com/communities/108869588356214314591</string>
+  <string name="share_chooser_title">Partager OwnROM</string>
   <!-- OTA OwnROM -->
-  <string name="ownrom_source_title">Github</string>
-  <string name="ownrom_source_summary">Visit our source git team</string>
+  <string name="ownrom_source_title">GitHub</string>
+  <string name="ownrom_source_summary">Visiter notre source git team</string>
   <string name="ownrom_google_plus_title">Google+</string>
-  <string name="ownrom_google_plus_summary">Visit our G+ page for support and news</string>
-  <string name="ownrom_website_title">OwnDroid Website</string>
-  <string name="ownrom_website_summary">Visit our website for downloads and updates</string>
+  <string name="ownrom_google_plus_summary">Visiter notre page G+ pour l\'aide et les nouveautés</string>
+  <string name="ownrom_website_title">OwnDroid Site web</string>
+  <string name="ownrom_website_summary">Visiter notre site pour les téléchargements et les MAJ</string>
   <string name="ownrom_walls_title">OwnWalls</string>
-  <string name="ownrom_walls_summary">Download all kinds of Wallpapers</string>
+  <string name="ownrom_walls_summary">Téléchargez toute sorte de fonds d\'écran</string>
   <string name="ownrom_fb_title">Facebook</string>
-  <string name="ownrom_fb_summary">Fisit and/or follow us on Facebook</string>
+  <string name="ownrom_fb_summary">Visitez notre page facebook</string>
   <string name="ownrom_telegram_title">OwnROM Telegram</string>
-  <string name="ownrom_telegram_summary">Join our Telegram group to stay updated and file feature requests!</string>
-  <string name="ownrom_translations_title">Crowdin translations</string>
-  <string name="ownrom_translations_summary">Help us translate OwnROM to your desired language</string>
+  <string name="ownrom_telegram_summary">Rejoingez notre groupe Telegram pour être au courant des MAJ et demander l\'ajout de contenu!</string>
+  <string name="ownrom_translations_title">Nouvelles traductions de Crowdin</string>
+  <string name="ownrom_translations_summary">Aidez-nous à traduireOwnROM dans votre langue.</string>
   <!-- Team -->
-  <string name="team_ownrom_title">Team</string>
+  <string name="team_ownrom_title">L\'équipe</string>
 </resources>
