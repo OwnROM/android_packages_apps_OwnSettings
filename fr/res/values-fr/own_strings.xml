@@ -27,9 +27,9 @@
   <string name="reset_android_title">Par défaut Android</string>
   <string name="palette_darkkat_title">OwnROM</string>
   <string name="palette_material_title">Material</string>
-  <string name="palette_rgb_title">RGB</string>
+  <string name="palette_rgb_title">RVB</string>
   <string name="reset_color_title">Réinitialiser</string>
-  <string name="reset_darkkat_title">Palette customiser</string>
+  <string name="reset_darkkat_title">Customiser les palettes</string>
   <string name="reset_theme_default_title">Thème par défaut</string>
   <string name="favorites_title">Favoris</string>
   <string name="hide_favorites_title">Masquer les favoris</string>
