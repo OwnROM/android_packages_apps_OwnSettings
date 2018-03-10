@@ -36,7 +36,7 @@
   <string name="show_favorites_title">Show favorites</string>
   <string name="show_help_title">ヘルプを表示</string>
   <string name="hide_help_title">Hide help</string>
-  <string name="empty_title">Empty</string>
+  <string name="empty_title">空</string>
   <!-- Color picker help screen -->
   <string name="color_picker_help_screen_title">Color Picker help</string>
   <string name="color_picker_help_ab_title">Action bar:</string>
@@ -66,13 +66,13 @@
   <string name="color_picker_help_palette_title">Palette:\n(OwnROM, Material and RGB)</string>
   <string name="color_picker_help_palette_summary">All palette colors have a fixed value.\nA click sets the favorite color as new color, without applying the new color.</string>
   <string name="color_picker_help_do_not_show_title">Don\'t show again</string>
-  <string name="color_picker_help_button_ok_title">OK</string>
+  <string name="color_picker_help_button_ok_title">はい</string>
   <!-- OwnSettings -->
   <string name="ownsettings_title">OwnSettings</string>
   <!-- Categories -->
   <!-- Status bar -->
   <!-- Tabs -->
-  <string name="statusbar_icons_tab_title">Icons</string>
+  <string name="statusbar_icons_tab_title">アイコン</string>
   <string name="statusbar_clock_tab">Clock</string>
   <string name="statusbar_other_tab_title">Other</string>
   <!-- General -->
