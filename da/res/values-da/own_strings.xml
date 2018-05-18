@@ -16,23 +16,23 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- General Strings -->
-  <string name="general">General</string>
-  <string name="default_string">Default</string>
-  <string name="reset">Reset</string>
+  <string name="general">Generelt</string>
+  <string name="default_string">Standard</string>
+  <string name="reset">Nulstil</string>
   <!-- Color picker -->
-  <string name="color_picker_fragment_title">Color Picker</string>
-  <string name="apply_color_title">Apply color</string>
-  <string name="press_color_to_apply">Press on color below to apply</string>
-  <string name="edit_hex_title">HEX value</string>
-  <string name="reset_android_title">Android default</string>
+  <string name="color_picker_fragment_title">Farvevælger</string>
+  <string name="apply_color_title">Anvend farve</string>
+  <string name="press_color_to_apply">Tryk på farve for at vælge</string>
+  <string name="edit_hex_title">HEX værdi</string>
+  <string name="reset_android_title">Android standard</string>
   <string name="palette_darkkat_title">OwnROM</string>
-  <string name="palette_material_title">Material</string>
+  <string name="palette_material_title">Materiale</string>
   <string name="palette_rgb_title">RGB</string>
-  <string name="reset_color_title">Reset</string>
-  <string name="reset_darkkat_title">Customized palette</string>
-  <string name="reset_theme_default_title">Theme default</string>
-  <string name="favorites_title">Favorites</string>
-  <string name="hide_favorites_title">Hide favorites</string>
+  <string name="reset_color_title">Nulstil</string>
+  <string name="reset_darkkat_title">Tilpasset palet</string>
+  <string name="reset_theme_default_title">Tema standard</string>
+  <string name="favorites_title">Favoritter</string>
+  <string name="hide_favorites_title">Skjul favoritter</string>
   <string name="show_favorites_title">Show favorites</string>
   <string name="show_help_title">Show help</string>
   <string name="hide_help_title">Hide help</string>
