@@ -47,11 +47,11 @@
   <string name="color_picker_help_ab_hex_title">Hex værdi:</string>
   <string name="color_picker_help_ab_hex_summary">Viser hex input felt. \nHex værdierne skal være i hex farve format: \n \'#aarrggbb\', (\'alpha\' (gennemsigtighed), \'rød\', \'grøn\' og \'blå\'). \nTilbageknappen for at annullere. \nBrug vælg for anvende den nye farve.</string>
   <string name="color_picker_help_ab_color_apply_title">Farveeksempel og anvend farve:</string>
-  <string name="color_picker_help_ab_color_apply_summary">The color preview is always visible.\nIf the new color doesn\'t equals the old color, the color preview will be expanded, to allow apply the new color.</string>
-  <string name="color_picker_help_ab_menu_title">Menu button:</string>
-  <string name="color_picker_help_ab_menu_reset_title">Reset:</string>
-  <string name="color_picker_help_ab_menu_reset_summary">Resets the new color to the default Android or OwnROM color without applying the new color.</string>
-  <string name="color_picker_help_ab_menu_hex_title">Hex value:</string>
+  <string name="color_picker_help_ab_color_apply_summary">Farveeksemplet er altid synligt. \nHvis farven ikke er lig med den forrigt valgte, vil den nuværende eksempl blive anvendt.</string>
+  <string name="color_picker_help_ab_menu_title">Menuknap:</string>
+  <string name="color_picker_help_ab_menu_reset_title">Nulstil:</string>
+  <string name="color_picker_help_ab_menu_reset_summary">Nulstiller farven til standard Android eller OwnROM uden at anvende den nye farve.</string>
+  <string name="color_picker_help_ab_menu_hex_title">Hex værdi:</string>
   <string name="color_picker_help_ab_menu_hex_summary">Shows the hex input field.\nHex values have to be in hex color format:\n\'#aarrggbb\', (\'alpha\' (transparency), \'red\', \'green\' and \'blue\').\nThe back button closes the hex input field without setting the hex value.\nThe apply button sets the hex value as new color without applying the new color.</string>
   <string name="color_picker_help_ab_menu_favorites_title">Show/hide favorites:</string>
   <string name="color_picker_help_ab_menu_favorites_summary">Shows/hides the favorites.\nHiding the favorites will not reset the favorite colors.</string>
