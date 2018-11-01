@@ -454,7 +454,7 @@
   <string name="drawer_messages_tab_title">Messages</string>
   <!-- Force expanded notifications -->
   <string name="force_expanded_notifications_title">Force Expanded Notifications</string>
-  <string name="force_expanded_notifications_summary">Available only for apps that support expanded notifications</string>
+  <string name="force_expanded_notifications_summary">Nur für Apps verfügbar, die erweiterte Benachrichtigungen unterstützen</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Disable Immersive Mode Messages</string>
   <string name="disable_immersive_message_summary">This will hide all Immersive Mode Messages</string>
@@ -534,20 +534,20 @@
   <string name="pref_scrollingcache_summary">Scrolling cache may improve scrolling performance at the cost of memory</string>
   <string name="pref_scrollingcache_force_enable">Force enable</string>
   <string name="pref_scrollingcache_default_enable">Default enable</string>
-  <string name="pref_scrollingcache_default_disable">Default disable</string>
+  <string name="pref_scrollingcache_default_disable">Standardmäßig deaktivieren</string>
   <string name="pref_scrollingcache_force_disable">Force disable</string>
   <!-- Power menu Animations  -->
   <string name="power_menu_animation_title">Power menu animation</string>
   <string name="power_menu_animation_summary">Change the enter/exit animation of the power menu</string>
   <string name="power_menu_animation_dialog_title">Select power menu animation</string>
-  <string name="power_menu_animation_aosp">AOSP (default)</string>
+  <string name="power_menu_animation_aosp">AOSP (Standard)</string>
   <string name="power_menu_animation_bottom">Bottom</string>
   <string name="power_menu_animation_top">Top</string>
-  <string name="power_menu_animation_rotate">Rotation</string>
+  <string name="power_menu_animation_rotate">Drehung</string>
   <string name="power_menu_animation_xylon">Fly</string>
   <string name="power_menu_animation_slide">Slide</string>
   <string name="power_menu_animation_turn">Turn</string>
-  <string name="power_menu_animation_fly">Glow</string>
+  <string name="power_menu_animation_fly">Leuchten</string>
   <string name="power_menu_animation_card">3D</string>
   <string name="power_menu_animation_translucent_top">Translucent (top)</string>
   <string name="power_menu_animation_translucent_bottom">Translucent (bottom)</string>
@@ -560,7 +560,7 @@
   <string name="qs_tile_animation_style_flip">Flip</string>
   <string name="qs_tile_animation_style_rotate">Rotate</string>
   <string name="qs_tile_animation_duration_low">Low</string>
-  <string name="qs_tile_animation_duration_default">Default</string>
+  <string name="qs_tile_animation_duration_default">Standard</string>
   <string name="qs_tile_animation_duration_fast">Fast</string>
   <string name="qs_tile_animation_duration_superfast">Super fast</string>
   <string name="qs_tile_animation_interpolator_linearInterpolator">Linear</string>
@@ -577,10 +577,10 @@
   <!-- Recents Settings -->
   <string name="recents_settings_title">Recents Apps</string>
   <string name="general_recents_tab">General</string>
-  <string name="omniswitch_tab">Omniswitch</string>
+  <string name="omniswitch_tab">OmniSwitch</string>
   <!-- Hide Apps from Recents -->
-  <string name="hide_apps_from_recents_title">Hidden apps</string>
-  <string name="hide_from_recents_add_app">Add App</string>
+  <string name="hide_apps_from_recents_title">Ausgeblendete Apps</string>
+  <string name="hide_from_recents_add_app">App hinzufügen</string>
   <string name="hide_apps_from_recents_summary">Pick which apps to exclude from the recents panel</string>
   <!-- Recents MEM Bar -->
   <string name="systemui_recents_mem_display_title">Show Memory Bar</string>
@@ -589,43 +589,43 @@
   <string name="immersive_recents_title">Immersive Recents</string>
   <string name="immersive_recents_summary">Change the view of the recents screen</string>
   <string name="immersive_recents_dialog_title">Select recents view</string>
-  <string name="immersive_recents_default">Default</string>
-  <string name="immersive_recents_fullscreen">Fullscreen</string>
-  <string name="immersive_recents_statusbar">Statusbar only</string>
-  <string name="immersive_recents_navbar">Navbar only</string>
+  <string name="immersive_recents_default">Standard</string>
+  <string name="immersive_recents_fullscreen">Vollbild</string>
+  <string name="immersive_recents_statusbar">Nur in der Statusleiste</string>
+  <string name="immersive_recents_navbar">Nur die Navigationsleiste</string>
   <!-- Clear all recents button/fab -->
   <string name="show_clear_all_recents_button_title">Clear all button</string>
-  <string name="show_clear_all_recents_button_summary">Show clear all button</string>
-  <string name="recents_clear_all_location_title">Clear all location</string>
-  <string name="recents_clear_all_location_top_right">Top right</string>
-  <string name="recents_clear_all_location_top_left">Top left</string>
-  <string name="recents_clear_all_location_top_center">Top center</string>
-  <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-  <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-  <string name="recents_clear_all_location_bottom_center">Bottom center</string>
-  <string name="recents_clear_all_title">Clear All</string>
-  <string name="rr_recents_animations_title">Recents</string>
-  <string name="recents_anim_title">Recents Animations</string>
-  <string name="recents_anim_summary">Customize the Delay of Recents window and its actions</string>
+  <string name="show_clear_all_recents_button_summary">Zeige die Alle-Schließen Taste</string>
+  <string name="recents_clear_all_location_title">Position der Löschtaste</string>
+  <string name="recents_clear_all_location_top_right">oben rechts</string>
+  <string name="recents_clear_all_location_top_left">oben links</string>
+  <string name="recents_clear_all_location_top_center">oben mittig</string>
+  <string name="recents_clear_all_location_bottom_right">unten rechts</string>
+  <string name="recents_clear_all_location_bottom_left">unten links</string>
+  <string name="recents_clear_all_location_bottom_center">Unten mitte</string>
+  <string name="recents_clear_all_title">Alles leeren</string>
+  <string name="rr_recents_animations_title">Zuletzt benutzt</string>
+  <string name="recents_anim_title">Zuletzt benutzte Animationen</string>
+  <string name="recents_anim_summary">Verzögerung des Anwendungsverlaufs und seine Aktionen Anpassen</string>
   <!-- OmniSwitch -->
-  <string name="recents_use_omniswitch_title">Use for recents</string>
-  <string name="recents_use_omniswitch_summary">Use OmniSwitch instead of default recents view</string>
-  <string name="omniswitch_start_settings_title">Settings</string>
-  <string name="omniswitch_start_settings_summary">Open OmniSwitch settings</string>
-  <string name="omniswitch_first_time_title">Information</string>
-  <string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>
+  <string name="recents_use_omniswitch_title">Verwende für \"Letzte Apps\"</string>
+  <string name="recents_use_omniswitch_summary">OmniSwitch anstelle der Standard-Ansicht für zuletzt geöffnete Apps verwenden</string>
+  <string name="omniswitch_start_settings_title">Einstellungen</string>
+  <string name="omniswitch_start_settings_summary">OmniSwitch-Einstellungen öffen</string>
+  <string name="omniswitch_first_time_title">Informationen</string>
+  <string name="omniswitch_first_time_message">Stellen Sie sicher, dass Sie OmniSwitch aktiviert haben. Sie können dies über die \"Einstellungen\" unten tun</string>
   <string name="omniswitch_settings_title">OmniSwitch</string>
   <!-- Misc Settings -->
-  <string name="own_misc_settings">Misc Settings</string>
+  <string name="own_misc_settings">Sonstige Einstellungen</string>
   <!-- Selinux Switch -->
-  <string name="selinux_category_title">Selinux</string>
-  <string name="selinux_switch_title">Selinux options</string>
-  <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects.Needs root to work, use at your own risk</string>
-  <string name="selinux_title">Selinux Mode</string>
-  <string name="selinux_permissive_title">Permissive</string>
-  <string name="selinux_enforcing_title">Enforcing</string>
+  <string name="selinux_category_title">SELinux</string>
+  <string name="selinux_switch_title">SELinux-Optionen</string>
+  <string name="selinux_switch_summary">SELinux ist eine Sammlung von Kernel-Modifikationstools und Sicherheitsrichtlinien. Das Ändern dieser Einstellung kann ungewünschte Ereignisse hervorrufen. Braucht Root um zu funktionieren. Benutzung auf eigene Gefahr!</string>
+  <string name="selinux_title">SELinux-Modus</string>
+  <string name="selinux_permissive_title">Moderat</string>
+  <string name="selinux_enforcing_title">Strikt</string>
   <!-- Dashboard columns -->
-  <string name="dashboard_category_title">Dashboard</string>
+  <string name="dashboard_category_title">Kontrollzentrum</string>
   <string name="dashboard_columns_title">Dashboard Columns</string>
   <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard (Settings)</string>
   <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
@@ -637,7 +637,7 @@
   <string name="owncenter_ota_tab">OTA</string>
   <string name="own_updater_title">Aktualisierungen</string>
   <string name="own_updater_summary">Aktualisiere OwnROM, G-Apps und alles andere</string>
-  <string name="ownrom_maintainers">Maintainers</string>
+  <string name="ownrom_maintainers">Entwickler</string>
   <string name="ownrom_donation_link">Spenden</string>
   <string name="ownrom_donation_link_summary">Hilf uns dabei OwnROM durch eine Spende bei PayPall noch besser zu machen</string>
   <!-- Changelog -->
