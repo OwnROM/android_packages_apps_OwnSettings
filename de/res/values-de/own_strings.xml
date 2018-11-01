@@ -387,7 +387,7 @@
   <string name="smartbar_button_animation_flip">drehen</string>
   <string name="smartbar_button_animation_pixel">Bildpunkt (alle Tasten)</string>
   <string name="smartbar_button_animation_pixel_home">Bildpunkt (ausschließlich Hometaste)</string>
-  <string name="smartbar_factory_reset_title">Reset to stock</string>
+  <string name="smartbar_factory_reset_title">Auf Werkseinstellung zurücksetzen</string>
   <string name="smartbar_factory_reset_confirm">Bist du dir sicher das du Smartbar in den Ausgangszustand zurücksetzen möchtest?</string>
   <string name="smartbar_ime_action_title">Eingabe-Methode und Medien-Aktionen</string>
   <string name="smartbar_ime_action_summary">Einstellen, welche Tasten angezeigt werden sollen, wenn eine Bildschirmtastatur angezeigt wird oder die Musik abgespielt wird</string>
