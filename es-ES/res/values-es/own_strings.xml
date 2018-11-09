@@ -239,7 +239,7 @@
     <string name="swap_volume_buttons_summary">Swap volume buttons when the screen is rotated</string>
     <string name="button_wake_title">Wake up device</string>
     <string name="button_wake_title_summary">Wake up device by pressing one of the volume buttons</string>
-    <string name="home_answer_call_title">Answer call</string>
+    <string name="home_answer_call_title">Responder llamada</string>
     <string name="home_answer_call_summary">Pressing the home button will answer the current incoming call</string>
     <string name="kill_app_longpress_back">Kill app back button</string>
     <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back button</string>
@@ -408,11 +408,11 @@
     <string name="smartbar_doubletap_sleep_summary">Double tap on navbar empty areas to switch off the screen</string>
     <string name="one_handed_mode_title">One handed mode</string>
     <string name="one_handed_mode_summary">Allows swiping on the navigation bar to enable one handed mode</string>
-    <string name="navbar_buttons_alpha_title">Button transparency</string>
+    <string name="navbar_buttons_alpha_title">Transparencia de los borones</string>
     <!-- Power menu -->
-    <string name="power_menu_title">Power menu</string>
-    <string name="power_menu_reboot_title">Restart menu</string>
-    <string name="power_menu_screenshot_title">Screenshot</string>
+    <string name="power_menu_title">Menú de apagado</string>
+    <string name="power_menu_reboot_title">Menú de reinicio</string>
+    <string name="power_menu_screenshot_title">Captura de pantalla</string>
     <string name="power_menu_airplane_title">Modo avión</string>
     <string name="power_menu_users_title">Cambio de usuario</string>
     <string name="power_menu_settings_title">Atajo de configuración</string>
@@ -446,7 +446,7 @@
     <!-- Quick settings tiles size -->
     <string name="sysui_qqs_count_title">Small QS tiles count</string>
     <!-- QS Rows & Collumns -->
-    <string name="qs_rows_portrait_title">Rows (portrait)</string>
+    <string name="qs_rows_portrait_title">Columnas(vertical)</string>
     <string name="qs_rows_landscape_title">Rows (landscape)</string>
     <string name="qs_columns_title">Columnas</string>
     <!-- Notification Drawer Settings -->
@@ -589,7 +589,7 @@
     <string name="immersive_recents_title">Immersive Recents</string>
     <string name="immersive_recents_summary">Change the view of the recents screen</string>
     <string name="immersive_recents_dialog_title">Select recents view</string>
-    <string name="immersive_recents_default">Default</string>
+    <string name="immersive_recents_default">Predeterminado</string>
     <string name="immersive_recents_fullscreen">Pantalla completa</string>
     <string name="immersive_recents_statusbar">Sólo en la barra de estado</string>
     <string name="immersive_recents_navbar">Sólo en la barra de navegación</string>
@@ -605,14 +605,14 @@
     <string name="recents_clear_all_location_bottom_center">Bottom center</string>
     <string name="recents_clear_all_title">Clear All</string>
     <string name="rr_recents_animations_title">Recientes</string>
-    <string name="recents_anim_title">Recents Animations</string>
+    <string name="recents_anim_title">Animaciones recientes</string>
     <string name="recents_anim_summary">Customize the Delay of Recents window and its actions</string>
     <!-- OmniSwitch -->
     <string name="recents_use_omniswitch_title">Use for recents</string>
     <string name="recents_use_omniswitch_summary">Use OmniSwitch instead of default recents view</string>
-    <string name="omniswitch_start_settings_title">Settings</string>
+    <string name="omniswitch_start_settings_title">Ajustes</string>
     <string name="omniswitch_start_settings_summary">Open OmniSwitch settings</string>
-    <string name="omniswitch_first_time_title">Information</string>
+    <string name="omniswitch_first_time_title">Información</string>
     <string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>
     <string name="omniswitch_settings_title">OmniSwitch</string>
     <!-- Misc Settings -->
@@ -638,31 +638,31 @@
     <string name="own_updater_title">Updater</string>
     <string name="own_updater_summary">Update your ROM, G-Apps and other stuf</string>
     <string name="ownrom_maintainers">Maintainers</string>
-    <string name="ownrom_donation_link">Donate</string>
+    <string name="ownrom_donation_link">Donar</string>
     <string name="ownrom_donation_link_summary">Help us make OwnROM even better by donating trough PayPall</string>
     <!-- Changelog -->
-    <string name="changelog_ownrom_title">Changelog</string>
-    <string name="changelog_ownrom_error">Unable to load changelog</string>
+    <string name="changelog_ownrom_title">Historial de cambios</string>
+    <string name="changelog_ownrom_error">No se pudo cargar el historial de cabios</string>
     <!-- Share OwnROM -->
-    <string name="share_ownrom_title">Share OwnROM</string>
-    <string name="share_ownrom_summary">Let others know about OwnROM</string>
+    <string name="share_ownrom_title">Compartir OwnROM</string>
+    <string name="share_ownrom_summary">Hágale saber a otros sobre OwnROM</string>
     <string name="share_message">Check out what #OwnROM is all about @ Google+: https://plus.google.com/communities/108869588356214314591</string>
-    <string name="share_chooser_title">Share OwnROM</string>
+    <string name="share_chooser_title">Compartir OwnROM</string>
     <!-- OTA OwnROM -->
     <string name="ownrom_source_title">Github</string>
     <string name="ownrom_source_summary">Visit our source git team</string>
     <string name="ownrom_google_plus_title">Google+</string>
     <string name="ownrom_google_plus_summary">Visit our G+ page for support and news</string>
-    <string name="ownrom_website_title">OwnDroid Website</string>
+    <string name="ownrom_website_title">Sitio web de OwnDroid</string>
     <string name="ownrom_website_summary">Visit our website for downloads and updates</string>
     <string name="ownrom_walls_title">OwnWalls</string>
-    <string name="ownrom_walls_summary">Download all kinds of Wallpapers</string>
+    <string name="ownrom_walls_summary">Descargue toda clase de salvapantallas</string>
     <string name="ownrom_fb_title">Facebook</string>
     <string name="ownrom_fb_summary">Fisit and/or follow us on Facebook</string>
     <string name="ownrom_telegram_title">OwnROM Telegram</string>
-    <string name="ownrom_telegram_summary">Join our Telegram group to stay updated and file feature requests!</string>
+    <string name="ownrom_telegram_summary">Unase a nuestro grupo de Telegram para mantenerse actualizado y solicitar alguna caracteristica!</string>
     <string name="ownrom_translations_title">Crowdin translations</string>
-    <string name="ownrom_translations_summary">Help us translate OwnROM to your desired language</string>
+    <string name="ownrom_translations_summary">Ayudenos a traducir OwnRom a su idioma nativo</string>
     <!-- Team -->
-    <string name="team_ownrom_title">Team</string>
+    <string name="team_ownrom_title">Equipo</string>
 </resources>
