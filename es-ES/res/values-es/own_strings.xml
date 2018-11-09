@@ -78,7 +78,7 @@
     <!-- General -->
     <string name="status_bar_toggle_brightness">Control de brillo</string>
     <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
-    <string name="status_bar_notif_count_title">Show notification count</string>
+    <string name="status_bar_notif_count_title">Mostrar contador de notificaciones</string>
     <string name="status_bar_notif_count_summary">Mostrar el número de notificaciones pendientes</string>
     <string name="status_bar_quick_qs_pulldown_title">Despliegue rápido</string>
     <string name="status_bar_quick_qs_pulldown_summary">%1$s borde de la barra de estado despliega hacia abajo de configuración rápida</string>
@@ -97,7 +97,7 @@
     <string name="status_bar_am_pm_hidden">Oculto</string>
     <!-- Status bar - Battery -->
     <string name="status_bar_battery_category">Icono de batería</string>
-    <string name="status_bar_battery_style_title">Battery status style</string>
+    <string name="status_bar_battery_style_title">Estilo de la batería</string>
     <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
     <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
     <string name="status_bar_battery_style_circle">Círculo</string>
@@ -158,8 +158,8 @@
     <string name="battery_bar_color">Color de la barra de bateria</string>
     <string name="battery_bar_charging_color">Color de la barra de batería durante la carga</string>
     <string name="battery_bar_battery_low_color">Color de la barra de batería en batería baja</string>
-    <string name="battery_bar_cat">Battery bar style</string>
-    <string name="battery_bar_style_title">Battery bar alignment</string>
+    <string name="battery_bar_cat">Estilo de la barra de batería</string>
+    <string name="battery_bar_style_title">Alineación de la barra de batería</string>
     <string name="battery_bar_thickness_title">Battery bar thickness</string>
     <string name="battery_bar_animate_title">Animación de carga</string>
     <string name="battery_bar_style_regular">Regular</string>
@@ -168,15 +168,15 @@
     <string name="battery_bar_use_charging_color">Color de carga personalizado</string>
     <string name="battery_bar_blend_color_title">Mezclar colores</string>
     <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
-    <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
-    <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
+    <string name="battery_bar_blend_color_reverse_title">Invertir dirección de colores</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Lleno &#8594; vacio: rojo &#8592; verde &#8592; azul &#8592; rojo</string>
     <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
     <!-- Status Bar Ticker -->
     <string name="ticker_screen_title">Ticker</string>
     <string name="ticker_title">Status Bar Ticker</string>
     <string name="ticker_screen_summary">Customize the ticker style</string>
     <string name="ticker_summary">Enable the status bar ticker</string>
-    <string name="ticker_restore_defaults_title">Restore defaults</string>
+    <string name="ticker_restore_defaults_title">Restaurar valores por defecto</string>
     <string name="text_title">Texto</string>
     <string name="icon_title">Icono</string>
     <string name="colors_title">Colores</string>
@@ -187,11 +187,11 @@
     <!-- Data/Wifi activity arrows -->
     <string name="data_wifi_category_title">Data/WiFi Icon</string>
     <string name="data_wifi_activity_arrows_title">Show data/wifi activity</string>
-    <string name="data_wifi_activity_arrows_summary">Display data/wifi activity arrows</string>
+    <string name="data_wifi_activity_arrows_summary">Mostrar flechas de actividad de datos/wifi</string>
     <!-- VoLTE icon -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon when available</string>
-    <string name="show_4g_title">Show 4G</string>
+    <string name="volte_icon_title">Icono de VoLTE</string>
+    <string name="volte_icon_summary">Mostrar icono de VoLtE cuando este disponible</string>
+    <string name="show_4g_title">Mostrar 4G</string>
     <string name="show_4g_summary">Show 4g instead of LTE in signal icons</string>
     <!-- Button Settings -->
     <string name="button_settings_title">Botones</string>
@@ -216,31 +216,31 @@
     <string name="hardware_keys_action_nothing">Ninguna acción</string>
     <string name="hardware_keys_action_menu">Abrir/Cerrar el menú</string>
     <string name="hardware_keys_action_app_switch">Recent apps switcher</string>
-    <string name="hardware_keys_action_search">Search assistant</string>
-    <string name="hardware_keys_action_voice_search">Voice search</string>
-    <string name="hardware_keys_action_in_app_search">In-app search</string>
-    <string name="hardware_keys_action_launch_camera">Launch camera</string>
+    <string name="hardware_keys_action_search">Asistente de busqueda</string>
+    <string name="hardware_keys_action_voice_search">Busqueda por voz</string>
+    <string name="hardware_keys_action_in_app_search">Buscar dentro de la aplicación</string>
+    <string name="hardware_keys_action_launch_camera">Lanzar cámara</string>
     <string name="hardware_keys_action_sleep">Apagar la pantalla</string>
-    <string name="hardware_keys_action_last_app">Last app</string>
+    <string name="hardware_keys_action_last_app">Última aplicación</string>
     <string name="hardware_keys_action_split_screen">Pantalla dividida</string>
     <string name="camera_sleep_on_release_title">Vista rápida</string>
     <string name="camera_sleep_on_release_summary">A half press will keep the screen on only while the button is held down</string>
-    <string name="camera_launch_title">Launch camera</string>
+    <string name="camera_launch_title">Lanzar cámara</string>
     <string name="camera_launch_summary">A longpress and release will launch camera</string>
     <string name="volbtn_music_controls_title">Playback control</string>
     <string name="volbtn_music_controls_summary">When the screen is off, long pressing the volume keys will seek music tracks</string>
     <string name="volbtn_cursor_control_title">Keyboard cursor control</string>
-    <string name="volbtn_cursor_control_off">Disabled</string>
+    <string name="volbtn_cursor_control_off">Deshabilitado</string>
     <string name="volbtn_cursor_control_on">Volume up/down moves cursor left/right</string>
     <string name="volbtn_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
     <string name="power_end_call_title">Finalizar llamada</string>
     <string name="power_end_call_summary">Pulsar el botón de encendido finalizará la llamada en curso</string>
     <string name="swap_volume_buttons_title">Reorientar botónes</string>
     <string name="swap_volume_buttons_summary">Swap volume buttons when the screen is rotated</string>
-    <string name="button_wake_title">Wake up device</string>
-    <string name="button_wake_title_summary">Wake up device by pressing one of the volume buttons</string>
+    <string name="button_wake_title">Encender dispositivo</string>
+    <string name="button_wake_title_summary">Encender dispositivo presionando uno de los botónes de volúmen</string>
     <string name="home_answer_call_title">Responder llamada</string>
-    <string name="home_answer_call_summary">Pressing the home button will answer the current incoming call</string>
+    <string name="home_answer_call_summary">Presionar el botón de inicio responderá la llamada entrante</string>
     <string name="kill_app_longpress_back">Kill app back button</string>
     <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back button</string>
     <!-- Key backlight -->
@@ -274,7 +274,7 @@
     <string name="select_custom_activity_title">Select custom activity</string>
     <string name="profile_applist_title">Applications</string>
     <string name="default_string">Default</string>
-    <string name="reset">Reset</string>
+    <string name="reset">Reiniciar</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Choose action</string>
     <string name="action_entry_default_action">Default settings</string>
@@ -637,7 +637,7 @@
     <string name="owncenter_ota_tab">OTA</string>
     <string name="own_updater_title">Actualizador</string>
     <string name="own_updater_summary">Actualiza tu ROM,>G-Apps y todo lo demás</string>
-    <string name="ownrom_maintainers">Maintainers</string>
+    <string name="ownrom_maintainers">Responsables de mantenimiento</string>
     <string name="ownrom_donation_link">Donar</string>
     <string name="ownrom_donation_link_summary">Ayudanos a hacer OwnROM mucho mejor dondando a tráves de PayPal</string>
     <!-- Changelog -->
@@ -646,11 +646,11 @@
     <!-- Share OwnROM -->
     <string name="share_ownrom_title">Compartir OwnROM</string>
     <string name="share_ownrom_summary">Hágale saber a otros sobre OwnROM</string>
-    <string name="share_message">Check out what #OwnROM is all about @ Google+: https://plus.google.com/communities/108869588356214314591</string>
+    <string name="share_message">Revise de que tratá #OwnROM @ Google+:https://plus.google.com/communities/108869588356214314591</string>
     <string name="share_chooser_title">Compartir OwnROM</string>
     <!-- OTA OwnROM -->
     <string name="ownrom_source_title">Github</string>
-    <string name="ownrom_source_summary">Visit our source git team</string>
+    <string name="ownrom_source_summary">Visite nuestro equipo de codigo fuente git</string>
     <string name="ownrom_google_plus_title">Google+</string>
     <string name="ownrom_google_plus_summary">Visite nuestra pagina de G+ para noticias y soporte</string>
     <string name="ownrom_website_title">Sitio web de OwnDroid</string>
