@@ -100,41 +100,41 @@
     <string name="status_bar_battery_style_title">Battery status style</string>
     <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
     <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
+    <string name="status_bar_battery_style_circle">Círculo</string>
     <string name="status_bar_battery_style_text">Texto</string>
     <string name="status_bar_battery_style_hidden">Oculto</string>
     <!-- Status bar - Battery custom charging symbol -->
     <string name="text_charging_symbol_title">Símbolo cargando personalizado para estilo de texto</string>
     <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
-    <string name="text_charging_symbol_default">Disabled</string>
+    <string name="text_charging_symbol_default">Deshabilitado</string>
     <string name="text_charging_symbol_flash">Flash</string>
     <string name="text_charging_symbol_tilde">Tilde</string>
     <!-- Status bar - Battery percentage -->
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+    <string name="status_bar_battery_percentage_title">Porcentaje de batería</string>
+    <string name="status_bar_battery_percentage_default">Oculto</string>
+    <string name="status_bar_battery_percentage_text_inside">Dentro del icono</string>
+    <string name="status_bar_battery_percentage_text_next">Junto al icono</string>
     <!-- Status bar - icon blacklist -->
-    <string name="status_bar_icons_title">Status bar icons</string>
-    <string name="status_bar_icons_summary">Control which status bar icons are shown</string>
+    <string name="status_bar_icons_title">Iconos de la barra de estado</string>
+    <string name="status_bar_icons_summary">Controla los iconos que se muestran en la barra de estado</string>
     <!-- Status bar - double tap to sleep -->
-    <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar to turn off the display</string>
-    <string name="statusbar_settings_title">StatusBar</string>
+    <string name="status_bar_double_tap_to_sleep_title">Doble toque para suspender</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Doble toque en la barra de estado para apagar la pantalla</string>
+    <string name="statusbar_settings_title">Barra de Estado</string>
     <!-- Bluetooth status -->
-    <string name="bluetooth_battery_title">Show Bluetooth battery status</string>
-    <string name="bluetooth_battery_summary">Show battery status for the currently connected bluetooth device, if availible.</string>
+    <string name="bluetooth_battery_title">Mostrar estado de la batería Bluetooth</string>
+    <string name="bluetooth_battery_summary">Muestra el estado de la batería para el dipositivo bluetooth conectado actualmente, si está, disponible.</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic</string>
-    <string name="show_network_traffic_state">Status bar traffic monitor</string>
-    <string name="show_network_traffic_unit">Display unit</string>
-    <string name="show_network_traffic_frequency">Update interval</string>
-    <string name="show_network_traffic_disable">Disabled</string>
-    <string name="show_network_traffic_up">Outgoing</string>
-    <string name="show_network_traffic_down">Incoming</string>
-    <string name="show_network_traffic_all">Outgoing and incoming</string>
-    <string name="show_network_traffic_bit">Bits per second</string>
-    <string name="show_network_traffic_byte">Bytes per second</string>
+    <string name="network_traffic_title">Tráfico de red</string>
+    <string name="show_network_traffic_state">Monitor de tráfico en la barra de estado</string>
+    <string name="show_network_traffic_unit">Mostrar unidad</string>
+    <string name="show_network_traffic_frequency">Inrervalo de actualización</string>
+    <string name="show_network_traffic_disable">Deshabilitado</string>
+    <string name="show_network_traffic_up">Saliente</string>
+    <string name="show_network_traffic_down">Entrante</string>
+    <string name="show_network_traffic_all">Salida y entrada</string>
+    <string name="show_network_traffic_bit">Bits por segundo</string>
+    <string name="show_network_traffic_byte">Bytes por segundo</string>
     <string name="show_network_traffic_500">500 ms</string>
     <string name="show_network_traffic_1000">1000 ms</string>
     <string name="show_network_traffic_1500">1500 ms</string>
