@@ -488,8 +488,8 @@
     <string name="animation_duration_default">Default</string>
     <!-- Toast Animation -->
     <string name="toast_animation_title">Toast animation</string>
-    <string name="toast_none_animation">None</string>
-    <string name="toast_default_animation">Default</string>
+    <string name="toast_none_animation">Ninguno</string>
+    <string name="toast_default_animation">Predeterminado</string>
     <string name="toast_fade_animation">Desvanecer</string>
     <string name="toast_SlideRight_animation">Deslizar a la derecha</string>
     <string name="toast_SlideLeft_animation">Deslizar a la izquierda</string>
@@ -501,7 +501,7 @@
     <string name="toast_GrowFade_animation">Desvanecimiento creciente</string>
     <string name="toast_GrowFadeCenter_animation">Grow fade center</string>
     <string name="toast_GrowFadeBottom_animation">Grow fade bottom</string>
-    <string name="toast_Translucent_animation">Translucent</string>
+    <string name="toast_Translucent_animation">Translúcido</string>
     <string name="toast_SlideLeftRight_animation">Slide left to right</string>
     <string name="toast_SlideRightLeft_animation">Slide right to left</string>
     <!-- Toast Icons -->
@@ -532,14 +532,14 @@
     <!-- Option to enable/disable scrolling cache -->
     <string name="pref_scrollingcache_title">Desplazamiento de caché</string>
     <string name="pref_scrollingcache_summary">Scrolling cache may improve scrolling performance at the cost of memory</string>
-    <string name="pref_scrollingcache_force_enable">Force enable</string>
+    <string name="pref_scrollingcache_force_enable">Forzar activado</string>
     <string name="pref_scrollingcache_default_enable">Default enable</string>
     <string name="pref_scrollingcache_default_disable">Default disable</string>
-    <string name="pref_scrollingcache_force_disable">Force disable</string>
+    <string name="pref_scrollingcache_force_disable">Deshabilitado forzado</string>
     <!-- Power menu Animations  -->
     <string name="power_menu_animation_title">Power menu animation</string>
     <string name="power_menu_animation_summary">Change the enter/exit animation of the power menu</string>
-    <string name="power_menu_animation_dialog_title">Select power menu animation</string>
+    <string name="power_menu_animation_dialog_title">Seleccionar animación del menú de apagado</string>
     <string name="power_menu_animation_aosp">AOSP (por defecto)</string>
     <string name="power_menu_animation_bottom">Abajo</string>
     <string name="power_menu_animation_top">Arriba</string>
@@ -600,40 +600,40 @@
     <string name="recents_clear_all_location_top_right">Top right</string>
     <string name="recents_clear_all_location_top_left">Top left</string>
     <string name="recents_clear_all_location_top_center">Top center</string>
-    <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-    <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-    <string name="recents_clear_all_location_bottom_center">Bottom center</string>
-    <string name="recents_clear_all_title">Clear All</string>
+    <string name="recents_clear_all_location_bottom_right">Inferior derecha</string>
+    <string name="recents_clear_all_location_bottom_left">Inferior izquierda</string>
+    <string name="recents_clear_all_location_bottom_center">Inferior centrado</string>
+    <string name="recents_clear_all_title">Borrar todo</string>
     <string name="rr_recents_animations_title">Recientes</string>
     <string name="recents_anim_title">Animaciones recientes</string>
     <string name="recents_anim_summary">Customize the Delay of Recents window and its actions</string>
     <!-- OmniSwitch -->
-    <string name="recents_use_omniswitch_title">Use for recents</string>
+    <string name="recents_use_omniswitch_title">Uso par recientes</string>
     <string name="recents_use_omniswitch_summary">Use OmniSwitch instead of default recents view</string>
     <string name="omniswitch_start_settings_title">Ajustes</string>
-    <string name="omniswitch_start_settings_summary">Open OmniSwitch settings</string>
+    <string name="omniswitch_start_settings_summary">Abrir ajustes de OmniSwitch</string>
     <string name="omniswitch_first_time_title">Información</string>
-    <string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>
+    <string name="omniswitch_first_time_message">Asegúrese de tener habilitado OmniSwirch. Puede hacer esto mediante el uso de \"Ajustes\"</string>
     <string name="omniswitch_settings_title">OmniSwitch</string>
     <!-- Misc Settings -->
-    <string name="own_misc_settings">Misc Settings</string>
+    <string name="own_misc_settings">Otros ajustes</string>
     <!-- Selinux Switch -->
-    <string name="selinux_category_title">Selinux</string>
-    <string name="selinux_switch_title">Selinux options</string>
-    <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects.Needs root to work, use at your own risk</string>
-    <string name="selinux_title">Selinux Mode</string>
-    <string name="selinux_permissive_title">Permissive</string>
-    <string name="selinux_enforcing_title">Enforcing</string>
+    <string name="selinux_category_title">SELinux</string>
+    <string name="selinux_switch_title">Opciones de SELinux</string>
+    <string name="selinux_switch_summary">SELinux es un conjunto de modificaciones del kernel y herramientas del espacio de usuario. Manipular los modos puede producir efectos no deseados. Requiere root para funcionar, uselo bajo su propio riesgo</string>
+    <string name="selinux_title">Modo SELinux</string>
+    <string name="selinux_permissive_title">Permisivo</string>
+    <string name="selinux_enforcing_title">Forzado</string>
     <!-- Dashboard columns -->
-    <string name="dashboard_category_title">Dashboard</string>
-    <string name="dashboard_columns_title">Dashboard Columns</string>
-    <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard (Settings)</string>
-    <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
-    <string name="dashboard_columns_default">One (two landscape)</string>
-    <string name="dashboard_columns_two">Two (three landscape)</string>
-    <string name="dashboard_columns_three">Three (four landscape)</string>
+    <string name="dashboard_category_title">Panel de control</string>
+    <string name="dashboard_columns_title">Columnas del panel de control</string>
+    <string name="dashboard_columns_summary">Cambiar el numero de columnas mostradas en el panel de configuración (Ajustes)</string>
+    <string name="dashboard_columns_dialog_title">Seleccionar columnas del panel de control</string>
+    <string name="dashboard_columns_default">Uno (Dos paisajes)</string>
+    <string name="dashboard_columns_two">Dos (tres paisajes)</string>
+    <string name="dashboard_columns_three">Tres (cuatro paisajes)</string>
     <!-- OwnROM Center -->
-    <string name="owncenter">OwnROM Center</string>
+    <string name="owncenter">Centro OwnROM</string>
     <string name="owncenter_ota_tab">OTA</string>
     <string name="own_updater_title">Actualizador</string>
     <string name="own_updater_summary">Actualiza tu ROM,>G-Apps y todo lo demás</string>
