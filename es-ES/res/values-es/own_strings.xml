@@ -155,7 +155,7 @@
     <string name="battery_bar_location_statusbar">Barra de Estado</string>
     <string name="battery_bar_location_top_navbar">Parte superior de la barra de navegación</string>
     <string name="battery_bar_location_bottom_navbar">Parte inferior de la barra de navegación</string>
-    <string name="battery_bar_color">Color de la barra de bateria</string>
+    <string name="battery_bar_color">Color de la barra de batería</string>
     <string name="battery_bar_charging_color">Color de la barra de batería durante la carga</string>
     <string name="battery_bar_battery_low_color">Color de la barra de batería en batería baja</string>
     <string name="battery_bar_cat">Estilo de la barra de batería</string>
