@@ -185,14 +185,14 @@
     <string name="ticker_enabled">Notification ticker</string>
     <string name="ticker_media_enabled">Notifications and music ticker</string>
     <!-- Data/Wifi activity arrows -->
-    <string name="data_wifi_category_title">Data/WiFi Icon</string>
-    <string name="data_wifi_activity_arrows_title">Show data/wifi activity</string>
+    <string name="data_wifi_category_title">Icono de Datos/WiFi</string>
+    <string name="data_wifi_activity_arrows_title">Actividad de datos/wifi</string>
     <string name="data_wifi_activity_arrows_summary">Mostrar flechas de actividad de datos/wifi</string>
     <!-- VoLTE icon -->
     <string name="volte_icon_title">Icono de VoLTE</string>
     <string name="volte_icon_summary">Mostrar icono de VoLtE cuando este disponible</string>
     <string name="show_4g_title">Mostrar 4G</string>
-    <string name="show_4g_summary">Show 4g instead of LTE in signal icons</string>
+    <string name="show_4g_summary">Mostrar 4g en lugar de LTE en los iconos de señal</string>
     <!-- Button Settings -->
     <string name="button_settings_title">Botones</string>
     <string name="button_navigation_tab">Navegación</string>
@@ -215,7 +215,7 @@
     <string name="hardware_keys_double_tap_title">Acción de doble toque</string>
     <string name="hardware_keys_action_nothing">Ninguna acción</string>
     <string name="hardware_keys_action_menu">Abrir/Cerrar el menú</string>
-    <string name="hardware_keys_action_app_switch">Recent apps switcher</string>
+    <string name="hardware_keys_action_app_switch">Selector de aplicaciones recientes</string>
     <string name="hardware_keys_action_search">Asistente de busqueda</string>
     <string name="hardware_keys_action_voice_search">Busqueda por voz</string>
     <string name="hardware_keys_action_in_app_search">Buscar dentro de la aplicación</string>
@@ -244,14 +244,14 @@
     <string name="kill_app_longpress_back">Kill app back button</string>
     <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back button</string>
     <!-- Key backlight -->
-    <string name="button_backlight_title">Backlight</string>
+    <string name="button_backlight_title">Luz de fondo</string>
     <string name="button_backlight_summary">Customize button backlight settings</string>
     <string name="button_backlight_enabled">Illuminate buttons</string>
     <string name="keyboard_backlight_enabled">Illuminate keyboard</string>
     <string name="button_backlight_seekbar_title">Button brightness</string>
     <string name="keyboard_backlight_seekbar_title">Brillo del teclado</string>
     <string name="backlight_timeout_title">Illumination timeout</string>
-    <string name="backlight_timeout_unlimited">Don\'t turn off</string>
+    <string name="backlight_timeout_unlimited">No apagar</string>
     <string name="backlight_summary_disabled">Disabled</string>
     <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
     <string name="backlight_summary_enabled">Habilitado</string>
@@ -273,7 +273,7 @@
     <string name="select_custom_app_title">Select custom app</string>
     <string name="select_custom_activity_title">Select custom activity</string>
     <string name="profile_applist_title">Applications</string>
-    <string name="default_string">Default</string>
+    <string name="default_string">Predeterminado</string>
     <string name="reset">Reiniciar</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Seleccionar acción</string>
@@ -304,18 +304,18 @@
     <string name="fling_single_left_tap">Single tap left</string>
     <string name="fling_double_left_tap">Double tap left</string>
     <string name="fling_long_left_press">Long press left</string>
-    <string name="long_swipe_portrait_title">Portrait</string>
-    <string name="long_swipe_landscape_title">Landscape</string>
-    <string name="portrait_right_swipe_title">Portrait right swipe</string>
-    <string name="portrait_left_swipe_title">Portrait left swipe</string>
-    <string name="landscape_right_swipe_title">Landscape right swipe</string>
+    <string name="long_swipe_portrait_title">Vertical</string>
+    <string name="long_swipe_landscape_title">Modo horizontal</string>
+    <string name="portrait_right_swipe_title">Deslizamiento a la derecha en modo vertical</string>
+    <string name="portrait_left_swipe_title">Deslizar a la izquierda en modo vertical</string>
+    <string name="landscape_right_swipe_title">Deslizar a la derecha en modo horizontal</string>
     <string name="landscape_left_swipe_title">Landscape left swipe</string>
     <string name="vertical_up_swipe_title">Vertical up swipe</string>
     <string name="vertical_down_swipe_title">Vertical down swipe</string>
     <string name="up_swipe_title">Up swipe</string>
     <string name="down_swipe_title">Down swipe</string>
     <string name="long_swipe_reset">Reset</string>
-    <string name="fling_advanced">Advanced</string>
+    <string name="fling_advanced">Avanzado</string>
     <string name="fling_long_swipe_title">Long swipe thresholds</string>
     <string name="fling_long_swipe_summary">Fine tune long swipe thresholds based on a percentage of Fling interface width or height</string>
     <string name="fling_trails_enable_title">Enable gesture trails</string>
@@ -327,8 +327,8 @@
     <string name="fling_animate_logo_title">Animate logo</string>
     <string name="fling_animate_logo_summary">La animación del logo se activa en eventos táctiles</string>
     <string name="fling_logo_color">Logo color</string>
-    <string name="fling_logo_custom_logo_pick_title">Custom logo icon</string>
-    <string name="fling_logo_custom_logo_image_pick_title">Custom logo image</string>
+    <string name="fling_logo_custom_logo_pick_title">Icono de logo personalizado</string>
+    <string name="fling_logo_custom_logo_image_pick_title">Icono de logotipo personalizado</string>
     <string name="fling_logo_custom_logo_reset_title">Reset logo icon</string>
     <string name="fling_show_ripple_title">Show ripple</string>
     <string name="fling_show_ripple_summary">Ripple effect on touch events</string>
@@ -338,8 +338,8 @@
     <string name="fling_longpress_title">Long press delay</string>
     <string name="fling_longpress_summary">Increase or decrease the time it takes to execute a long press</string>
     <!-- Pulse navigation bar music visualizer -->
-    <string name="pulse_help_policy_notice_title">About Pulse</string>
-    <string name="pulse_help_policy_notice_summary">Pulse is a brilliant audio graphic equalizer on the navigation bar when music plays. Pulse does not work with some audio sources when listening on device speaker</string>
+    <string name="pulse_help_policy_notice_title">Acerca de Pulse</string>
+    <string name="pulse_help_policy_notice_summary">Pulse es un brillante ecualizador de audio grafico en la barra de navegacion activado al reproducir la música. Pulse no funciona con algunas fuentes de audio cuando se escucha en el altavoz del dispositivo</string>
     <string name="pulse_settings">Pulso</string>
     <string name="pulse_settings_summary">Navigation bar audio graphic equalizer</string>
     <string name="fling_show_pulse_title">Mostrar Pulso</string>
